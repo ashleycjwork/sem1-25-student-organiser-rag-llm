@@ -1,0 +1,1402 @@
+[
+    {
+        "title": "Learn real world skills",
+        "content": "Learn real world skills We prepare students for the real-world by teaching them: how understanding the domain problem and the users is more important than technical skills, and how to work on a complex, ambiguous project , showing them how to become as independent as possible , show them how to document and share knowledge to others in a professional manner, explain how a software maturity model can help clarify expectations , and teaching them how to work productively in a remote environment. We even tell students how to try to avoid the top 5 mistakes that students make . In our Welcome Session, we talk about ways you can better learn real world skills .",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "learn",
+            "real",
+            "skills",
+            "students",
+            "world"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#learn-real-world-skills"
+    },
+    {
+        "title": "Types of projects",
+        "content": "Types of projects Many of the projects work in the Data Analysis and Research Software Engineering space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning. We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space. Here are some of the recurring student intern projects and new projects we are working on . Here are some of the previous student intern reports .",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "intern",
+            "projects",
+            "space",
+            "student",
+            "work"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#types-of-projects"
+    },
+    {
+        "title": "Open source contributors",
+        "content": "Open source contributors Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why we have written our expectations of potential open source contributors to make the expectations more transparent .",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "act",
+            "contributors",
+            "expectations",
+            "open",
+            "source"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#open-source-contributors"
+    },
+    {
+        "title": "Hear from previous students",
+        "content": "Hear from previous students You can listen to two students talk about their projects (click image below).",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "click",
+            "hear",
+            "image",
+            "listen",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#hear-from-previous-students"
+    },
+    {
+        "title": "Key Documents to review and FAQ",
+        "content": "Key Documents to review and FAQ To understand more about the program, you can read: the RCP Student Internship Program Handbook , the RCP Code of Conduct , the Social Media Policy for student interns , the online FAQ , and the key milestones and emails for the projects",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "faq",
+            "key",
+            "program",
+            "rcp",
+            "student"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#key-documents-to-review-and-faq"
+    },
+    {
+        "title": "How to Apply",
+        "content": "How to Apply We suggest that you write a 1 page cover letter introducing yourself. We also have material on how to write a good cover letter and what to look for when you are writing a resume . View the intake dates here Further details on how to apply are here .",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "apply",
+            "cover",
+            "dates",
+            "letter",
+            "write"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#how-to-apply"
+    },
+    {
+        "title": "To make changes to this website",
+        "content": "To make changes to this website Go to the GitHub repo to change this website",
+        "topic": "Unpaid Student Internship Program",
+        "keywords": [
+            "change",
+            "changes",
+            "github",
+            "make",
+            "website"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/students#to-make-changes-to-this-website"
+    },
+    {
+        "title": "Philosophy",
+        "content": "Philosophy Students are encouraged to self-direct during the internship and be as independent as possible, with supervision. Balancing what the student wants to do and benefiting WEHI is a great example of a fantastic project. The key continuous improvement skills that are tested and improved apon during this program are: Tolerance for Complexity Tolerance for Ambiguity Critical Thinking Adaptability Learnability Collaborative by Default It is important for students to understand the high-level concepts of the domain the student is working in. This increases the independence of the student to work through complexity. Students need to recognise the limited time they have and what they can achieve. This is why documentation is key to ensure information is passed to future students. The ability to learn quickly by doing your own research is important. Finding out how fast you learn and where your limits are, in a safe space, can help you to know yourself better. To get a better understanding of the internship, I provide a RCP student handbook . There are multiple internships running at the same time. We encourage students to collaborate within projects and across sister projects (similar projects) via co-working meetings.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "key",
+            "projects",
+            "student",
+            "students",
+            "tolerance"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#philosophy"
+    },
+    {
+        "title": "Allocating Students to Projects",
+        "content": "Allocating Students to Projects The way I allocate students to projects is based on their skills and interests. The process is as follows: I send an email to acknowledge their submission has been seen . If the application is not taken forward I email the  unsuccessful students as soon as possible.  If the application is taken forward I reach out to them for a short discussion. At that short discussion I explain to them the projects that might interest them and where I see that they could contribute. I explain the challenges and whether something is difficult or easy. I ask them to think about what they want. I also share with them the link to the project page so that they can see more options. This might take 15 minutes per student and takes up a lot of time, but I think it is worth it to make sure I understand them. Once they agree to a project that they want to do and that I can allocate them to, I will email them with an offer. At this point they can accept or refuse this offer.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "email",
+            "offer",
+            "projects",
+            "short",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#allocating-students-to-projects"
+    },
+    {
+        "title": "During the project",
+        "content": "During the project I ask students to meet a minimum of three times a week. One meeting is to meet as a team with the supervisor to understand the high-level concepts and the architectural or algorithmic limitations, another meeting is a co-working meeting with their fellow project members without the supervisor, and another meeting is a co-working meeting with \u201csister project\u201d team members to help share information across projects. I ask the students to understand the basic concepts before they choose how they would like to improve the project. So, if they want to create a web application, they can, if it contributes to solving the broader problem. In that way, we are asking them to self-direct their project to something that is interesting to them and helps build the skills they want. I have changed the way I have setup the student projects so that now students are in groups of three or more. There have been times when I have not been able to make that happen, but that is the standard as of Summer 2023/2024. You can see the key milestones and the onboarding emails we send at regular intervals during the internship . Most projects are building on the previous set of students work as they are complicated and it can take a long time for average students to grasp new domain information. These average students want to be spoon-fed, which is a major criticism that businesses have of new graduates.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "meeting",
+            "project",
+            "projects",
+            "students",
+            "want"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#during-the-project"
+    },
+    {
+        "title": "Documentation",
+        "content": "Documentation By doing this I teach them that they need to document their new knowledge and technical work for the next set of students, which increases findability, usability and maintenance of the work that they have done. This is also a critical skill for their future careers for project handovers and maintenance work, which many students do not have experience with. As discussed earlier, the students and look at the wiki that shows what the previous students have done, and I also talk to them over the phone about the work of the previous students. This should not be a surprise to applicants that they are working on a project developed by previous interns. They can refuse the offer of the project if they find the project not to their liking. The current intake of the Genomics Metadata Multiplexing project is an example of an ongoing project that is working extremely well due to the foundational work done by previous students. This set of students are enjoying the work and the ability to make a difference.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "maintenance",
+            "previous",
+            "project",
+            "students",
+            "work"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#documentation"
+    },
+    {
+        "title": "Other Interactions",
+        "content": "Other Interactions I also have scheduled a voluntary follow-up session / networking session between students on Thursday across the entire student intake but have stopped these due to lack of uptake by the students. By the third week no-one attends, and I am left to myself. I also have added to the handbook and onboarding checklist the monthly in-person Research Software Engineer (RSE) lunches that I organise and attend but again, the uptake has been low. Roughly, less than 5% of students attend a lunch and none attend consistently. Last intake, I asked a group of students to liaise with another group on a project. I asked multiple times but this was not actioned. This intake, I did ask for more structure where a scheduled meeting with a sister project needed to be set and this has increased the communication between groups. In the projects where there is a need for a Subject Matter Expert (SME), I have been trialling to catchup with the SME at the 5-week mark for a Q and A. This allows the students to understand the information in the wiki and some basic terms and models of the domain so that they can make the most out of the SME\u2019s time and answers. This has been a good working model so far. I go into the office once a month, mainly for the RSE lunches. I have worked at WEHI for over 3 years now and have had an in-person meeting with my supervisor once. I am basically a remote worker. So, to increase the opportunity of in-person meetups, I have tried to get students to meet me in-person as part of the RSE lunches, but there has been little uptake. I tried to organise an in-person tour of the WEHI building last year after some questions from students, but no students responded to the email. There used to be a weekly tour of the WEHI building but this been cancelled since the pandemic. I also emailed students about an in-person student intern conference that WEHI runs every year where they could present and meet fellow student interns, but no one responded. To ensure students are aware that this is 100% remote I have updated the website and I have amended the application form to now ask them to confirm that they know that this is a 100% remote internship as appears below: I recognise that this is a 100% remote role and that all meetings and interactions will be virtual. I also recognise that there are opportunities for in-person events like the monthly Parkville Research Software Engineer lunch.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "100",
+            "person",
+            "remote",
+            "students",
+            "wehi"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#other-interactions"
+    },
+    {
+        "title": "Other Resources",
+        "content": "Other Resources Finally, I provide resources to the students that help them in every step of the program, including FAQS that include how I expect meetings to be run, how you can escalate a question, among other things. I also provide other ways that they can work towards independence by teaching them: how understanding the domain problem and the users is more important than technical skills, and how to work on a complex, ambiguous project , showing them how to become as independent as possible , show them how to document and share knowledge to others in a professional manner, explain how a software maturity model can help clarify expectations , and teaching them how to work productively in a remote environment. We even tell students how to try to avoid the top 5 mistakes that students make .",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "provide",
+            "resources",
+            "students",
+            "teaching",
+            "work"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#other-resources"
+    },
+    {
+        "title": "Feedback",
+        "content": "Feedback We have had 169 students through the program since Semester 2, 2021 who have provided over 18 person years of effort to help us uncover and document complexity early in over 20 projects. Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.",
+        "topic": "explanation about ohs",
+        "keywords": [
+            "11th",
+            "rated",
+            "reviews",
+            "semester",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/explanation_about_ohs#feedback"
+    },
+    {
+        "title": "Semester 1 2025 Projects",
+        "content": "Semester 1 2025 Projects The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the AIVE project and the AIVE public wiki . This project helps with reproducibility in the field of Bioinformatics. For more details see BioNix project and the BioNix Getting Started Wiki . This project helps the Genomics lab quote their complex product range to internal and external clients. For more details see Genomics Invoicing project . This project helps the Genomics lab  streamline quality control plot generation for duplex sequencing data.  For more details see Duplex Sequencing Plugin project",
+        "topic": "project wikis",
+        "keywords": [
+            "details",
+            "genomics",
+            "helps",
+            "project",
+            "wiki"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/project-wikis#semester-1-2025-projects"
+    },
+    {
+        "title": "Ongoing Projects",
+        "content": "Ongoing Projects This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see Introduction to REDMANE , Data Lakehouse / Data Commons project and the Data Commons Wiki . This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see Clinical Dashboards project. , the Extract PDF Wiki , and the Clinical Dashboards Wiki . This project aims to improve the web application that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details read the student organiser project.",
+        "topic": "project wikis",
+        "keywords": [
+            "dashboards",
+            "data",
+            "details",
+            "project",
+            "wiki"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/project-wikis#ongoing-projects"
+    },
+    {
+        "title": "Potential Projects that are dependent on various factors",
+        "content": "Potential Projects that are dependent on various factors This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see Genomics Metadata Multiplexing project. and the Genomics Metadata Multiplexing Wiki This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see Quantum Computing in Bioinformatics project and the Quantum Computing Wiki . This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see Imaging project and the Imaging Getting Started Wiki . This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see Immunology Web Application project. This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see the GitHub repo for the Conference Organiser .",
+        "topic": "project wikis",
+        "keywords": [
+            "application",
+            "details",
+            "project",
+            "quantum",
+            "wiki"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/project-wikis#potential-projects-that-are-dependent-on-various-factors"
+    },
+    {
+        "title": "Previous projects",
+        "content": "Previous projects This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see Haemosphere project and the Haemosphere wiki . This project looks to create models to forecast capacity\u202fand create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI.\u202fIt also created a Storage Calculator that is now being implmented into REDMANE. For more details see Capacity Planning Storage and Compute project. This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see mixOmics project. This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see schex Bioconductor project , the Bioconductor Maintenance wiki and the schex Bioconductor package . This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.\nTo learn more about it, please read the presentation, Benchmarking domain-specific research workflow solutions at an international level as well as the GitHub from the students from 2023 that has three public Tableau graphs. A presentation of this work is available on Sharepoint (WEHI access only) . This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see Immunology modelling project This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see Genomics Quality Control project. This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see cryoEM project and the cryo-EM wiki . This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see Flux project . This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see LoxCode project.",
+        "topic": "project wikis",
+        "keywords": [
+            "bioconductor",
+            "compute",
+            "details",
+            "looks",
+            "project"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/project-wikis#previous-projects"
+    },
+    {
+        "title": "Other documentation",
+        "content": "Other documentation And a high level Getting started Guides - wiki",
+        "topic": "project wikis",
+        "keywords": [
+            "documentation",
+            "getting",
+            "guides",
+            "high",
+            "level"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/project-wikis#other-documentation"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction LoxCode is a novel technology developed in the Naik lab at WEHI that allows to create on demand random tags (or barcodes) in the DNA of living cells. These tags are read out via next generation sequencing and help to study important questions in biology like cancer evolution or embryonic development. Given that both the technology and the data it generates are new, no software is currently available that would facilitate the analysis, especially for experimental researchers less familiar with programming and computation. Therefore, to make this tool available to a wider community, an easy to use R package (LoxcodeR) and a graphical use-interface (GUI) to process and analyze the sequencing data generated are under development.",
+        "topic": "loxcoder",
+        "keywords": [
+            "available",
+            "development",
+            "sequencing",
+            "technology",
+            "use"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-loxcoder#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The role of the intern is to: extend the existing LoxcodeR package and GUI software for the analysis of novel biological data work closely with experimental researchers to identify their needs around Loxcode data analysis and visualization Potential to develop new visualizations and analysis pipelines Potential to experiment with AI to create scripts to generate data analysis reports in a consistent automated or semi-automated way. There is also a fair amount of flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "loxcoder",
+        "keywords": [
+            "analysis",
+            "automated",
+            "data",
+            "new",
+            "potential"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-loxcoder#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Interests in biological data analysis and biomedical research software applications Ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills",
+        "topic": "loxcoder",
+        "keywords": [
+            "ability",
+            "pre",
+            "requisites",
+            "skills",
+            "theories"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-loxcoder#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Learn new and apply already acquired data analytical skills to a cutting-edge biomedical application Gain insights into a modern interdisciplinary research environment at WEHI Deepen knowledge in the statistical computing language R",
+        "topic": "loxcoder",
+        "keywords": [
+            "acquired",
+            "benefits",
+            "statistical",
+            "students",
+            "undertaking"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-loxcoder#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a pre-production project for a data commons called REDMANE. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a pre-production data infrastructure.",
+        "topic": "student data commons",
+        "keywords": [
+            "called",
+            "data",
+            "pre",
+            "production",
+            "strategies"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-data-commons#introduction"
+    },
+    {
+        "title": "Multiple sub-projects within this project",
+        "content": "Multiple sub-projects within this project This project is made up of the following sub-projects that an intern can apply for: Create synthetic multi-omics data to match synthetic clinical and other metadata Extend functionality of the Data Registry application in ReactJS and FASTAPI Ingestion of data and metadata into the Data Registry using Python, and authenticating to an API Setup standardisation in authentication and security for multiple Data Portals using OIDC, AAF, and KeyCloak Setup cBioPortal as a Data Portal on the Nectar Cloud secured with OIDC Setup generic secure Shiny/R App as a Data Portal on the Nectar Cloud secured with OIDC Setup Omero as a Data Portal on the Nectar Cloud secured with OIDC Setup Storage Calculator as a Data Portal on the Nectar Cloud secured with OIDC",
+        "topic": "student data commons",
+        "keywords": [
+            "data",
+            "oidc",
+            "portal",
+            "secured",
+            "setup"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-data-commons#multiple-sub-projects-within-this-project"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement As a Research Software Engineer Intern, you will play a crucial role in supporting the design and implementation of a pre-production Research Data Management ecosystem called REDMANE. This internship will provide you with valuable hands-on experience in trialling, analysing, and improving different platforms. You will assist in building a scalable data management infrastructure and gain exposure to various aspects of data integration, modeling, and governance. The Research Software Engineer Intern role will generally: Assist in setup, extending, and testing Data Registry and Data Portals using synthetic data for multiple REDMANE ecosystems. Support the implementation of data ingestion pipelines for Data Registry and Data Portals securely. Contribute to the development of a base set of requirements for Data Portals to be able to be part of the REDMANE ecosystem. Setup environment to provide authentication across the Data Registry and Data Portals. Setup Data Portals for existing applications such as cBioPortal, Shniy, Omero and custom-made Storage Calculator. Assist in documenting the design decisions, and implementation processes. Contribute to creating technical documentation and user guides for future reference. Stay updated on emerging data management technologies and industry trends. Explore and experiment with new tools, frameworks, and platforms that can enhance the implementation.",
+        "topic": "student data commons",
+        "keywords": [
+            "data",
+            "implementation",
+            "portals",
+            "registry",
+            "research"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-data-commons#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites To excel in this internship project, the ideal candidate should have a willingness to research system administration and development skilsl and processes, an ability to learn quickly, an enthusiasm for research software architecture, and a willingness to share and communicate information. It would be beneficial if the student had an interest in learning Python, Web site development, API development, command-line scripting, System administration, Virtual Machines, OpenStack Cloud, and how to improve business workflows.  It would also be of benefit if the student was interested in learning about bioinformatics data formats.",
+        "topic": "student data commons",
+        "keywords": [
+            "development",
+            "learning",
+            "research",
+            "student",
+            "willingness"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-data-commons#skills-and-pre-requisites"
+    },
+    {
+        "title": "Further reading",
+        "content": "Further reading Introduction to REDMANE Data Commons Wiki",
+        "topic": "student data commons",
+        "keywords": [
+            "commons",
+            "data",
+            "introduction",
+            "reading",
+            "redmane"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-data-commons#further-reading"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction WEHI is currently focusing on improving its ability to handle big data from the multi-million dollar Cryogenic Electron Microscopy (cryo-EM) instrument. The candidate will develop an understanding of data flow from the cryo-EM facility and determine how data and metadata should be stored to support Findable Accessible Interoperable and Resuable data practices. The key output of the project is a framework for evaluating the suitability of third-party or in-house tools to support complex cryo-EMprocessing requirements.",
+        "topic": "cryoem",
+        "keywords": [
+            "ability",
+            "cryo",
+            "data",
+            "em",
+            "support"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-cryoem#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Data Engineer Intern role will: review cryo-EM data transfer and storage and look to improve the scripts and tools available to the cyro-EM community, setup and test these scripts and tools to benchmark their speed, maintainability and extensibility, provide recommendations and suggestions for potential future projects. There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "cryoem",
+        "keywords": [
+            "data",
+            "em",
+            "placement",
+            "scripts",
+            "tools"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-cryoem#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites include: Interest in research and Big Data processing Basic knowledge of the Linux command-line and ability to learn on-the-fly Willingness and ability to learn and understand high-level concepts Ability to work independently and to report to a group and discuss theories and results Good analytical skills Previous experience with git would be useful but not necessary",
+        "topic": "cryoem",
+        "keywords": [
+            "ability",
+            "learn",
+            "pre",
+            "requisites",
+            "skills"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-cryoem#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Working in a High Performance Computing environment or adjacent environment. Practical experience with potential exposure to Bash, Python, C++. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code.",
+        "topic": "cryoem",
+        "keywords": [
+            "benefits",
+            "environment",
+            "gain",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-cryoem#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Post-sequencing quality control (QC) is an important step in ensuring that the quality of sequencing data meets expectations. Multiple tools exist to evaluate sequencing quality, such as FastQC[1], Fastq Screen[2] and Qualimap[3]. Core sequencing facilities, such as WEHI Genomics, process hundreds of sequencing runs every year. In order to troubleshoot sequencing issues and provide assurance of data quality to collaborators, sequencing facilities must implement robust data management workflows to ensure that QC data processing is automated where possible, is easily accessible and is appropriately archived for posterity. Given a large volume of runs, there exists the possibility of inter-run QC comparisons to better gauge run quality. MultiQC[4] is a software tool that collates and displays QC information from numerous supported bioinformatics tools. MultiQC operates on a per-run basis, however, MegaQC[5] collates the data from these reports for comparison. However, MegaQC has not been in active development since 2020 and is considered \u201cpretty unstable\u201d by the developers. Additionally, the software lacks functionality that lists extensive project metadata, so that experiments can be more easily tracked and MultiQC reports can be easily located. Lastly, the tool lacks easy exporting of data, so that analyses can be further analysed programmatically. Given that MegaQC overlaps with many of our use cases, it may be possible to modify and/or extend the software for our use cases. Alternatively, Shiny apps (shiny.rstudio.com) allow for interactive data analysis and provide an ideal platform for QC data collation. Integration with Monday.com and LabArchives used by the Genomics lab may also be of benefit for retrieving and/or depositing QC data and project metadata. FastQC. \u201cFastQC: a quality control tool for high throughput sequence data.\u201d (2016). Wingett, Steven W., and Simon Andrews. \u201cFastQ Screen: A tool for multi-genome mapping and quality control.\u201d F1000Research 7 (2018). Okonechnikov, Konstantin, Ana Conesa, and Fernando Garc\u00eda-Alcalde. \u201cQualimap 2: advanced multi-sample quality control for high-throughput sequencing data.\u201d Bioinformatics 32.2 (2016): 292-294. Ewels, Philip, et al. \u201cMultiQC: summarize analysis results for multiple tools and samples in a single report.\u201d Bioinformatics 32.19 (2016): 3047-3048. https://megaqc.info/",
+        "topic": "genomics quantum computing",
+        "keywords": [
+            "data",
+            "multiqc",
+            "qc",
+            "quality",
+            "sequencing"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-qc#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Software Engineer Intern role will: work closely with researchers to identify their needs around Genomics quality control at scale Review the applications available for maintainability and extensibility Implement trial applications such as MegaQC to test fit-for-purpose There is also a fair amount of flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "genomics quantum computing",
+        "keywords": [
+            "allow",
+            "applications",
+            "megaqc",
+            "needs",
+            "new"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-qc#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Basic knowledge or ability to learn quickly Python/Javascript/CSS, databases and Linux command-line Ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Working with git would be an advantage",
+        "topic": "genomics quantum computing",
+        "keywords": [
+            "ability",
+            "pre",
+            "quickly",
+            "requisites",
+            "skills"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-qc#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Each student will get hands on experience in working in an emerging research software environment within a highly regarded medical research institute. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code. Improving oral and written communication skills in a team environment.",
+        "topic": "genomics quantum computing",
+        "keywords": [
+            "benefits",
+            "environment",
+            "research",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-qc#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Bioconductor is a pivotal and highly influential initiative in the field of bioinformatics and computational biology. It plays a critical role in helping researchers by providing an extensive and comprehensive ecosystem of software tools, packages, and resources tailored specifically for the analysis and interpretation of high-throughput biological data. Visualizations, especially visualizations of dimension reductions, are the workhorse of all scRNA-seq data analyses. They are hugely important during all stages of analysis, from exploring to presenting results. They often shape analysis decisions, like which batch correction approach to use, and can point to novel discoveries, like novel cell type marker genes or even new cell types. Unfortunately, currently employed visualization strategies struggle with the scale and sparsity of scRNA-seq data, sometimes with disastrous consequences. Overplotting is not a new problem and it has plagued many different fields, many of which have come up with unique solutions. Here, we suggest the use of hexagonal binning (Carr, 1990; Carr et al., 1987) for dimension reduction representations of scRNA-seq data. In order to make hexagonal plotting readily available to the scientific community, we developed schex (single-cell hexagonal plotting), an R package that allows users to produce hexagonal binning representations for dimension reductions of scRNA-seq. However, maintaining research software and making it easy to use can be difficult for researchers in the long run. This project is to aim at finding out which areas of software maintenance can possibly abstracted away from the researcher and into the hands of a Research Software Engineer (RSE).",
+        "topic": "schex",
+        "keywords": [
+            "data",
+            "hexagonal",
+            "scrna",
+            "seq",
+            "software"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-schex#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement This project would suit a candidate who was interested in maintaining research software, wants to gain experience within an open source software environment like Bioconductor, and enjoys learning about complex processes. This role is challenging as the person will need to learn about the data, the package, how to understand the output, as well as looking at the code and the software requirements for open source frameworks such as Bioconductor. The role will include: Documenting how Bioconductor and the software maintenance process currently works, Identifying problem areas that could be reviewed, Brainstorming and prototyping solutions of ways to reduce maintenance costs by the researcher, and Suggest other options and prototype as needed.",
+        "topic": "schex",
+        "keywords": [
+            "bioconductor",
+            "maintenance",
+            "open",
+            "software",
+            "source"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-schex#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites To excel in this internship project, the ideal candidate should have a willingness to research and learn about Bioconductor and schex, an ability to learn quickly, an enthusiasm for trying new things, and a willingness to share and communicate information.",
+        "topic": "schex",
+        "keywords": [
+            "learn",
+            "share",
+            "skills",
+            "things",
+            "willingness"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-schex#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students The benefits for students whilst undertaking the internship include: The student will gain practical Research Software Engineering  (RSE) experience with potential exposure to Bioconductor, single-cell RNASeq, and how to setup workflows for reproducibility. The student will gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. The student will have an opportunity to self-direct and be proactive in their approach to a new environment.",
+        "topic": "schex",
+        "keywords": [
+            "benefits",
+            "research",
+            "software",
+            "student",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-schex#benefits-for-students"
+    },
+    {
+        "title": "Further reading",
+        "content": "Further reading schex Bioconductor package schex GitHub repository",
+        "topic": "schex",
+        "keywords": [
+            "bioconductor",
+            "github",
+            "package",
+            "reading",
+            "schex"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-schex#further-reading"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction mixOmics is a large R package that provides statistical methods to integrate omics data sets (e.g transcriptomics, proteomics, metabolomics, metagenomics) that simultaneously measure the activity of thousands of biological features (e.g transcripts, proteins, metabolites, bacteria). Data integration enables identification of specific biological relationships between these features (e.g. genes and proteins), to create new insights into molecular processes involved in health and disease. MixOmics includes 19 data integration methods, amongst which 13 were developed in our lab. These methods are all based on dimension reduction using Projection to Latent Structures (PLS). Our users include computational biologists, molecular biologists and bioinformaticians who wish to integrate their data and identify signatures of genes, proteins etc. to explain or predict a disease outcome. The package (ranked in the top 5% package in Bioconductor) is easy to use because all methods use the same underlying PLS principles and produce numerous graphics for interpretation (Fig. 1). We continuously improve the mixOmics package based on the community feedback.",
+        "topic": "mixOmics",
+        "keywords": [
+            "data",
+            "methods",
+            "mixomics",
+            "package",
+            "proteins"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-mixOmics.html#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement As this is a large project, the internship requires complementary skillsets to: improve specific aspects of the package (e.g increase coverage for unit tests, trouble-shoot bugs or provide new features requested by users, improve code quality, develop new graphics) improve our existing tutorials and develop new ones on www.mixOmics.org if there is an appropriate opportunity and motivation, respond to users questions on our discussion forum at https://mixomics-users.discourse.group. This is because it would require a good mastery of the methods and would only apply towards the end of the internship. After the (steep) learning phase, there will be opportunities for students to propose new features and functionalities in the package if they wish. Figure 1. Overview of the methods in mixOmics for data exploration and integration of multiple omics data sets (courtesy of Prof. L\u00ea Cao)",
+        "topic": "mixOmics",
+        "keywords": [
+            "features",
+            "improve",
+            "mixomics",
+            "new",
+            "users"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-mixOmics.html#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Very good knowledge of R and Linux command-line Ability to learn and understand high-level statistical concepts quickly Ability to work independently and to report to a group and discuss theories and results Excellent skills in statistical analysis of complex data Ability to work with github Ability to interact with users Interest in biological applications",
+        "topic": "mixOmics",
+        "keywords": [
+            "ability",
+            "pre",
+            "requisites",
+            "skills",
+            "statistical"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-mixOmics.html#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Each student will get hands on experience in working in an emerging research software environment. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code. Improving oral and written communication skills in a team environment. Learn about new statistical methods for mining large data Learn about high-throughput biology",
+        "topic": "mixOmics",
+        "keywords": [
+            "benefits",
+            "environment",
+            "learn",
+            "research",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-mixOmics.html#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction WEHI is currently reviewing its storage and compute capacity and would like to create models to forecast capacity\u202fand create dashboards to demonstrate current usage and help make informed decisions.",
+        "topic": "capacity planning",
+        "keywords": [
+            "capacity",
+            "create",
+            "models",
+            "reviewing",
+            "storage"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-capacity-planning.html#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The\u202fCapacity Planning Data Scientist\u202fIntern and Capacity Planning Data Engineering Intern role will: identify and integrate historical and current data from many different systems into an interactive dashboard for storage and compute, develop\u202fand test models of\u202ffuture\u202fgrowth\u202fbased on historical data and upcoming trends\u202fusing appropriate statistical or machine learning\u202fmodels create calculators and other tools to inform the decision making process There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "capacity planning",
+        "keywords": [
+            "capacity",
+            "data",
+            "historical",
+            "models",
+            "planning"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-capacity-planning.html#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Preferred skills: Basic knowledge or willingness to learn, the combining and integrating of data from multiple sources like\u202fdatabases and\u202fAPIs Ability to learn and understand high-level concepts\u202fquickly Ability to work independently and to report to a group and discuss theories and\u202fresults Good analytical skills Previous experience with, or willingness to\u202flearn,\u202f\u202fR\u202for\u202fPython",
+        "topic": "capacity planning",
+        "keywords": [
+            "ability",
+            "combining",
+            "learn",
+            "skills",
+            "willingness"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-capacity-planning.html#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Each student will get hands on experience in working in a Big Data environment within a highly regarded medical research institute. Practical experience in the maturing stages of a capacity planning project that\u202fwill\u202fbe used to help inform high-level decisions. Gain understanding of how real-world information is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code\u202fand data. Improving oral and written communication skills in a team environment.",
+        "topic": "capacity planning",
+        "keywords": [
+            "benefits",
+            "data",
+            "environment",
+            "gain",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-capacity-planning.html#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Haemosphere.org is a publicly available database of blood cell gene expression. The haematopoietic research community is a diverse group which contains researchers with various levels of experience in analysing expression data, so we have created this resource to allow easy and fast access to the data for all researchers, and to provide access to the raw data for those who wish to follow up with their own analyses. The main function is that it helps researchers understand which genes are turned on in different blood cell types, by allowing to them to search for their favourite genes, view plots comparing cell types and download data and plots of interest. We would like to improve the use of this site for the research community by improving the user experience and making sure that it is robust and easy to maintain so that it will be available for the community long term.",
+        "topic": "haemosphere",
+        "keywords": [
+            "cell",
+            "community",
+            "data",
+            "experience",
+            "researchers"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-haemosphere#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Software Engineer Intern role will: work closely with researchers to identify their needs around data visualization and analysis Improve the speed of queries to the database Review and improve the maintainability and extensibility of the database Integrate interactive plots to the website There is also a fair amount of flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "haemosphere",
+        "keywords": [
+            "allow",
+            "database",
+            "improve",
+            "needs",
+            "new"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-haemosphere#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Basic knowledge of Python/Javascript/CSS, databases and Linux command-line Ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Working with git would be an advantage",
+        "topic": "haemosphere",
+        "keywords": [
+            "ability",
+            "pre",
+            "requisites",
+            "skills",
+            "understand"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-haemosphere#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Each student will get hands on experience in working in an emerging research software environment within a highly regarded medical research institute. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code. Improving oral and written communication skills in a team environment.",
+        "topic": "haemosphere",
+        "keywords": [
+            "benefits",
+            "environment",
+            "research",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-haemosphere#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from WEHI microscopes and determine how to automate the processing of microscopy files based off custom scripts provided by the BioImaging team. The key output of the project is to further the current work around making it easier for non-technical people to access High Performance Compute.",
+        "topic": "imaging",
+        "keywords": [
+            "data",
+            "management",
+            "microscopes",
+            "research",
+            "wehi"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-imaging#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Data Engineer Intern role will: review existing semi-automated workflows that are processing of microscopy data, further automate these workflows, including file conversions and transformations of the images, and potentially apply custom imaging processing pipeline to the raw data. There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "imaging",
+        "keywords": [
+            "data",
+            "introduce",
+            "microscopy",
+            "processing",
+            "workflows"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-imaging#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Interest in cutting edge image processing Basic knowledge of Linux command-line Willingness and ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Previous experience with git would be useful but not necessary",
+        "topic": "imaging",
+        "keywords": [
+            "ability",
+            "pre",
+            "requisites",
+            "skills",
+            "useful"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-imaging#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Working in a High Performance Computing environment or adjacent environment. Practical experience with potential exposure to Bash, Python, C++. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code. Background information: Imaging Getting Started This video talks about different 3D microscopy modalities. More information but information about hardware can be skipped",
+        "topic": "imaging",
+        "keywords": [
+            "benefits",
+            "environment",
+            "information",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-imaging#benefits-for-students"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Quantum computers are gaining attention from disciplines outside of physics. We are starting to see algorithms being developed that could be used to solve problems in the future. There are many problems that exist in biology and bioinformatics that could be explored with quantum computing. Structural biology and drug discovery are two such areas that may be able to use quantum computing in the future as quantum computers mature. WEHI is collaborating with the University of Melbourne to create foundational knowledge of quantum computing in biology to ensure that we are prepared for the future. This role is part of that exploration and will help to lay down the foundation of knowledge to allow researchers and research software engineers to accelerate their learning.",
+        "topic": "quantum",
+        "keywords": [
+            "biology",
+            "computing",
+            "future",
+            "knowledge",
+            "quantum"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-quantum#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Data Engineer Intern role will: Generating innovative and beneficial ideas for applying quantum computing to contemporary biological applications, Comprehensive reading and understanding of the latest scholarly work in the relevant field, Identifying knowledge gaps and bridging these, along with periodic presentations reporting on the findings and progress, Work with researchers to understand requirements, Experiment and document how quantum computer simulations can help accelerate learning, Review options for quantum computing in biology, and There is a possibility that experiments on a quantum computer may be done.",
+        "topic": "quantum",
+        "keywords": [
+            "computer",
+            "computing",
+            "latest",
+            "quantum",
+            "work"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-quantum#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites:",
+        "content": "Skills and Pre-requisites: To excel in this internship project, the ideal candidate should have a willingness to research quantum computers, an ability to learn quickly, an enthusiasm for quantum computing, and a willingness to share and communicate information.",
+        "topic": "quantum",
+        "keywords": [
+            "quantum",
+            "requisites",
+            "research",
+            "share",
+            "willingness"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-quantum#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students The benefits for students whilst undertaking the internship include: The student will learn Basic awareness and knowledge of quantum computing. Basic awareness and knowledge of the ecosystem that needs to surround quantum computing. Ability to communicate and share complex information to key stakeholders in their language. Experience with researchers and ability to navigate a research environment.",
+        "topic": "quantum",
+        "keywords": [
+            "ability",
+            "computing",
+            "knowledge",
+            "quantum",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-quantum#benefits-for-students"
+    },
+    {
+        "title": "Further Reading",
+        "content": "Further Reading Quantum Computing",
+        "topic": "quantum",
+        "keywords": [
+            "computing",
+            "quantum",
+            "reading"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-quantum#further-reading"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Core sequencing facilities, such as WEHI Genomics, process hundreds of sequencing runs every year. They have to keep track of the how samples are merged (multiplexed) so that they can be uncoupled (demultiplexed) after the sample has been digitised (sequenced) through the sequencing machine. This is a type of metadata. While this allows the sequencing facility to save money by processing samples in bulk, the ability to keep track of these multiplexes is complicated. This is especially significant because there is no resourcing to provide an assistant to be able to check the quality all the metadata at the time of multiplexing. We will propose to do a proof-of-concept to help track multiplexing and other sample transformations as part of the WEHI Genomics facility.",
+        "topic": "genomics metadata",
+        "keywords": [
+            "metadata",
+            "multiplexing",
+            "sequencing",
+            "track",
+            "wehi"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-metadata.html#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Software Engineer Intern role will: work closely with researchers to identify their needs around genomics metadata multiplexing Review the options available for building a proof-of-concept application based on maintainability and extensibility Implement, build, or trial applications to test fit-for-purpose There is also a fair amount of flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "genomics metadata",
+        "keywords": [
+            "allow",
+            "introduce",
+            "maintainability",
+            "metadata",
+            "multiplexing"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-metadata.html#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Skills and Pre-requisites: Basic knowledge or ability to learn quickly Java/Javascript/CSS, databases and Linux command-line Ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Working with git would be an advantage",
+        "topic": "genomics metadata",
+        "keywords": [
+            "ability",
+            "pre",
+            "quickly",
+            "requisites",
+            "skills"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-metadata.html#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Each student will get hands on experience in working in an emerging research software environment within a highly regarded medical research institute. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code. Improving oral and written communication skills in a team environment.",
+        "topic": "genomics metadata",
+        "keywords": [
+            "benefits",
+            "environment",
+            "research",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-metadata.html#benefits-for-students"
+    },
+    {
+        "title": "Further reading",
+        "content": "Further reading Genomics Metadata Multiplexing",
+        "topic": "genomics metadata",
+        "keywords": [
+            "genomics",
+            "metadata",
+            "multiplexing",
+            "reading"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-genomics-metadata.html#further-reading"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction Our cells contain a vast array of interacting organelles (tiny structures within cells that perform specific tasks, similar to the parts of a machine) that determine cellular processes through both health and disease. These structures may be imaged using electron microscopy by bouncing electrons off heavy-metal stained membranes. The resulting images have a resolution of nanometers per voxel (the 3D equivalent of an image pixel) in 3D and each data set may contain millions or billions of voxels per cell. [1] In a paper from 2021 [2] a new method for processing images from the focused ion beam-scanning EM (FIB-SEM) was used to image the cellular ultrastructure of phagophore-ER contacts in three dimensions. As per the paper: FIB-SEM is ideally suited for the acquisition of 3D ultrastructural images from large cellular volumes (Hoffman et al., 2020). However, traditional methods for the reconstruction and analysis of such data require manual image segmentation and classification. The hand-drawn surfaces that are generated during manual segmentation are laborious to produce, low throughput, and subject to human imprecision, making them unsuitable for large-scale morphometric analyses. To overcome these limitations, we developed an approach that delegates the most time-consuming tasks to an artificial intelligence (AI) within a framework that captures the true surface detail of intracellular organelles. Using the machine learning capabilities of Waikato Environment for Knowledge Analysis (WEKA) in combination with ImageJ (Arganda-Carreras et al., 2017; Frank et al., 2004; Schindelin et al., 2012), we trained a random forest computer vision model to faithfully detect all cellular membranes in volumetric FIB-SEM data (Figures 6A and 6B). We have termed this 3D framework AIVE (AI-directed voxel extraction; workflow outlined in Figure S7). The project would involve a series of stages to bring the software infrastructure to a level that will help with development. The initial stage would involve the setup of the workflow along with testing and improving the documentation of the workflow on a local laptop. The potential second stage would be to aim to run the workflow in the WEHI HPC environment known as Milton. The potential third stage would be to add more data to test the workflow to ensure that the test coverage is broader than it is currently. Once this third stage is achieved, there will be an opportunity to work on streamlining the AIVE workflow. References: https://en.wikipedia.org/wiki/Electron_microscope https://www.sciencedirect.com/science/article/pii/S1097276521001696",
+        "topic": "aive",
+        "keywords": [
+            "3d",
+            "cellular",
+            "data",
+            "stage",
+            "workflow"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-aive#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement In this role, you will need to be willing to read and synthesise the original paper with the latest documentation, and work with the Research Software Engineer (RSE) to help streamline all parts of the workflow. The Research Data Engineer Intern role will: review existing semi-automated workflows that are processing FIB-SEM data, test and improve documentation and regression testing for these FIB-SEM data workflows, setup appropriate software development infrastructure to aid in the maintenance and improvement of FIB-SEM workflows, and potentially improve the data workflow with the regression FIB-SEM data available. There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "aive",
+        "keywords": [
+            "data",
+            "fib",
+            "role",
+            "sem",
+            "workflows"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Interest in cutting edge image processing and AI Basic knowledge of Linux command-line Willingness and ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Previous experience with git would be useful but not necessary",
+        "topic": "aive",
+        "keywords": [
+            "ability",
+            "line",
+            "linux",
+            "necessary",
+            "skills"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-aive#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students The benefits for students whilst undertaking the internship include: Working in a High Performance Computing environment or adjacent environment. Practical experience with potential exposure to Bash and Java. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. Gain understanding of the importance of maintainable, scalable and extensible code.",
+        "topic": "aive",
+        "keywords": [
+            "benefits",
+            "environment",
+            "gain",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-aive#benefits-for-students"
+    },
+    {
+        "title": "Further reading",
+        "content": "Further reading A wiki will be created soon",
+        "topic": "aive",
+        "keywords": [
+            "created",
+            "reading",
+            "soon",
+            "wiki"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-aive#further-reading"
+    },
+    {
+        "title": "Introduction",
+        "content": "Introduction WEHI is currently looking at how to take clinical data from databases and create visualisations and dashboards to help administrators and clinicians explore the data.",
+        "topic": "clinical dashboards",
+        "keywords": [
+            "administrators",
+            "clinical",
+            "clinicians",
+            "create",
+            "data"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-clinical-dashboards#introduction"
+    },
+    {
+        "title": "Duties while on placement",
+        "content": "Duties while on placement The Research Data Engineer Intern role will: help create or gather synthetic datasets to allow for open collaboration, identify generic and specific visualisations that would help administrators and clinicians explore the data, identify different platforms that could be used to create dashboards and visualisations, and potentially creating exemplar visulisations across more than one platform. There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.",
+        "topic": "clinical dashboards",
+        "keywords": [
+            "create",
+            "data",
+            "help",
+            "identify",
+            "visualisations"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-clinical-dashboards#duties-while-on-placement"
+    },
+    {
+        "title": "Skills and Pre-requisites",
+        "content": "Skills and Pre-requisites Interest in working with clinically-adjacent data Background or willingness to learn visualisation and dashboard tools Willingness and ability to learn and understand high-level concepts quickly Ability to work independently and to report to a group and discuss theories and results Good analytical skills Previous experience with git would be useful but not necessary",
+        "topic": "clinical dashboards",
+        "keywords": [
+            "ability",
+            "learn",
+            "skills",
+            "visualisation",
+            "willingness"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-clinical-dashboards#skills-and-pre-requisites"
+    },
+    {
+        "title": "Benefits for students",
+        "content": "Benefits for students Benefits for students whilst undertaking the internship include: Working in a clinical-adjacent environment. Practical experience with potential exposure to Python, R, PowerBI and other visualisation software. Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a clinical environment. Gain understanding of the importance of maintainable, scalable and extensible code.",
+        "topic": "clinical dashboards",
+        "keywords": [
+            "benefits",
+            "clinical",
+            "environment",
+            "students",
+            "understanding"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-clinical-dashboards#benefits-for-students"
+    },
+    {
+        "title": "Further reading",
+        "content": "Further reading Clinical Informatics Collaborative Github Organisation Clinical Dashboards subproject wiki Extract PDF Background information and project presentations by former students on figshare",
+        "topic": "clinical dashboards",
+        "keywords": [
+            "background",
+            "clinical",
+            "project",
+            "reading",
+            "students"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/student-clinical-dashboards#further-reading"
+    },
+    {
+        "title": "How do I know if I am eligible?",
+        "content": "How do I know if I am eligible? For the enginering students, please contact engit-placements [at] unimelb [dot] edu [dot] au. For the data science and maths students, please contact science-industry-internships[at] unimelb [dot] edu [dot] au.",
+        "topic": "FAQ",
+        "keywords": [
+            "au",
+            "contact",
+            "dot",
+            "edu",
+            "science"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-do-i-know-if-i-am-eligible"
+    },
+    {
+        "title": "How flexible are the starting dates?",
+        "content": "How flexible are the starting dates? We are flexible. We aim to keep the same starting dates for everyone to make it easier to put people into the WEHI system, but the actual date you start can be flexible. You could start a week or two later if you need to. We are also flexible if you need to take time off during the internship as well.",
+        "topic": "FAQ",
+        "keywords": [
+            "dates",
+            "flexible",
+            "need",
+            "start",
+            "starting"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-flexible-are-the-starting-dates"
+    },
+    {
+        "title": "Where are the details I need to fill in my form?",
+        "content": "Where are the details I need to fill in my form? You can find the information here: These internships are 100% remote. The intake dates and hours per week are here . Supervisor/ Industry Contact details such as the title of the supervisor and phone number should be in the emails sent by your supervisor. An official letter on company letterhead/ An email from the host supervisor with their contact details visible should be the email offer you received from your supervisor.",
+        "topic": "FAQ",
+        "keywords": [
+            "100",
+            "contact",
+            "details",
+            "email",
+            "supervisor"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#where-are-the-details-i-need-to-fill-in-my-form"
+    },
+    {
+        "title": "I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?",
+        "content": "I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes? We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. There are also places to network: There is a monthly onsite lunch with other Research Software Engineers (RSEs) around Parkville . There are also online meetings every month as well. The RSE Asia Australia unconference happens every year in September. This is an online event and we encourage you to attend as there are scholarships available. You can join the RSE Association of Australia and New Zealand via their website. There is a WEHI student symposium usually at the end of the year that we encourage you to attend. This is a link to the 2023 version of the Student Symposium (WEHI access only) . You could proactively reach out to your fellow interns to see if there are others interested in networking.",
+        "topic": "FAQ",
+        "keywords": [
+            "office",
+            "rse",
+            "student",
+            "students",
+            "year"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#i-know-that-the-internships-are-usually-100-offsite-but-what-if-i-want-to-go-into-the-office-sometimes"
+    },
+    {
+        "title": "How do I know you won\u2019t get disengaged with the students?",
+        "content": "How do I know you won\u2019t get disengaged with the students? We are committed to providing guidance, support, and mentorship throughout their internship experience. We recognize the importance of maintaining open lines of communication and being accessible to address their needs. To ensure ongoing engagement, we have weekly check-ins with the student interns to discuss their progress, challenges, and goals. We aim to get them to understand the conceptual parts on these weekly check-ins, so that they can work with the technical side of things at their own pace. There is also a Virtual Computing Drop-in as well as a Thursday  to talk more generally about careers and other skills.",
+        "topic": "FAQ",
+        "keywords": [
+            "accessible",
+            "check",
+            "ins",
+            "needs",
+            "weekly"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-do-i-know-you-wont-get-disengaged-with-the-students"
+    },
+    {
+        "title": "What is the difference between data engineering, data analysis, and software engineering?",
+        "content": "What is the difference between data engineering, data analysis, and software engineering? Data engineering is focused on streamlining and cleaning data systematically. Data analysis is focused on cleaning data and analysing it using statistical or machine learning algorithms. Software engineering is focused on systematising analysis or tools that help us make decisions.",
+        "topic": "FAQ",
+        "keywords": [
+            "analysis",
+            "cleaning",
+            "data",
+            "engineering",
+            "focused"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-is-the-difference-between-data-engineering-data-analysis-and-software-engineering"
+    },
+    {
+        "title": "The Workday email says \u201cOn your first day, please arrive at 9.00am unless your manager has advised an alternative time and ask for your manager upon arrival at reception.\u201d - is this accurate?",
+        "content": "The Workday email says \u201cOn your first day, please arrive at 9.00am unless your manager has advised an alternative time and ask for your manager upon arrival at reception.\u201d - is this accurate? No, it is not accurate. This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.",
+        "topic": "FAQ",
+        "keywords": [
+            "accurate",
+            "day",
+            "email",
+            "manager",
+            "workday"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#the-workday-email-says-on-your-first-day-please-arrive-at-900am-unless-your-manager-has-advised-an-alternative-time-and-ask-for-your-manager-upon-arrival-at-reception---is-this-accurate"
+    },
+    {
+        "title": "One of the Workday modules asked me to register for an in-person welcome session",
+        "content": "One of the Workday modules asked me to register for an in-person welcome session Do not register for an in-person welcome session. This is for staff who will get keycards to access WEHI and this is a 100% remote internship.",
+        "topic": "FAQ",
+        "keywords": [
+            "100",
+            "person",
+            "register",
+            "session",
+            "welcome"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#one-of-the-workday-modules-asked-me-to-register-for-an-in-person-welcome-session"
+    },
+    {
+        "title": "I setup my Workday (HR system) through an initial email but now that password doesn\u2019t work or I cannot login to my WEHI email",
+        "content": "I setup my Workday (HR system) through an initial email but now that password doesn\u2019t work or I cannot login to my WEHI email The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. You may need to go into Incognito mode to get it to work.",
+        "topic": "FAQ",
+        "keywords": [
+            "email",
+            "provided",
+            "wehi",
+            "work",
+            "workday"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#i-setup-my-workday-hr-system-through-an-initial-email-but-now-that-password-doesnt-work-or-i-cannot-login-to-my-wehi-email"
+    },
+    {
+        "title": "What courses in Workday do I need to complete?",
+        "content": "What courses in Workday do I need to complete? These are the key courses you need to do: Law at Work - Privacy for the Private Sector and/or Private Fundamentals at WEHI Law at Work - Sexual Harassment Prevention Law at Work - Workplace Bullying Law at Work - Anti-discrimination and Equal Opportunity Acceptable Workplace Behaviour at WEHI These are the courses you could do if interested: Understanding Risk Management WEHI Child Safe Training Workday basics These are the ones you can ignore as you are 100% remote: Safety Orientation Program - Laboratory Safety Orientation Program - General",
+        "topic": "FAQ",
+        "keywords": [
+            "courses",
+            "law",
+            "wehi",
+            "work",
+            "workplace"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-courses-in-workday-do-i-need-to-complete"
+    },
+    {
+        "title": "How do I get access to the WEHI-wide student intern group using my WEHI email address?",
+        "content": "How do I get access to the WEHI-wide student intern group using my WEHI email address? To get access to WEHI-wide student intern group using your WEHI email address. We need to do this as we will be deleting the unimelb email access once everyone has their WEHI email addresses. Go to Teams > go to the teams option > put in the team code - this will be emailed to you on your first day Open it up in Microsoft Teams Client by selecting Open Microsoft Teams Click on Join button in blue It should then say Request Sent Wait for me to approve your access",
+        "topic": "FAQ",
+        "keywords": [
+            "access",
+            "email",
+            "teams",
+            "using",
+            "wehi"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address"
+    },
+    {
+        "title": "Given that the internship is remote, am I allowed to complete the internship while on travel?",
+        "content": "Given that the internship is remote, am I allowed to complete the internship while on travel? Yes, that is correct.",
+        "topic": "FAQ",
+        "keywords": [
+            "allowed",
+            "complete",
+            "correct",
+            "given",
+            "internship"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#given-that-the-internship-is-remote-am-i-allowed-to-complete-the-internship-while-on-travel"
+    },
+    {
+        "title": "The description stated that so many hrs per week is expected, but at roughly which times and for how long?",
+        "content": "The description stated that so many hrs per week is expected, but at roughly which times and for how long? As it is remote, we are very flexible but there are times when we do get together, such as the weekly project meeting. This is explained in the Student Internship Handbook .",
+        "topic": "FAQ",
+        "keywords": [
+            "description",
+            "roughly",
+            "stated",
+            "student",
+            "times"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#the-description-stated-that-so-many-hrs-per-week-is-expected-but-at-roughly-which-times-and-for-how-long"
+    },
+    {
+        "title": "How can I find out more about the Whiteboard Presentation in Week 4?",
+        "content": "How can I find out more about the Whiteboard Presentation in Week 4? Keep it informal and treat the whiteboard session like an on-the-spot interview question, without pre-prepared materials. This is less about presenting one way, the idea is for the supervisor to ask questions to ensure interns understand they \u201cwhys\u201d as well as the \u201cwhats\u201d. It will last around 10 to 15 minutes maximum. Sketch out the high-level problem on the whiteboard in front of your supervisors. Use big, simple boxes to keep it clear and uncluttered. Expect questions as supervisors will ask why the problem exists and how it impacts researchers. Explain your contributions to outline how you plan to contribute and what approaches you\u2019ll take. Refine the problem statement on the virtual whiteboard until your supervisors are satisfied. This will be done in your weekly project meeting. Ask your questions in the daily standup. Here is an example of a whiteboard presentation (need WEHI-wide Teams access)",
+        "topic": "FAQ",
+        "keywords": [
+            "ask",
+            "problem",
+            "questions",
+            "supervisors",
+            "whiteboard"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-can-i-find-out-more-about-the-whiteboard-presentation-in-week-4"
+    },
+    {
+        "title": "I need to use storage and compute. What are my options?",
+        "content": "I need to use storage and compute. What are my options? We have a few options at WEHI for storage and compute. Some projects have requirements that you can use your own laptop or computer.  For others you can use the following options: If you want to use a High Performance Computer (HPC) to learn more skills, or you have bigger requirements of storage and compute than can fit on your laptop, you can use the Milton HPC To get access to Milton HPC, all WEHI researchers must first submit a request. If you use Milton HPC, you can use the VAST scratch space for your temporary storage . If you want to run a web server or service, then you can use Nectar, the Australian Research Cloud using your WEHI email and password. If you have small data files that your supervisor says is OK to share publicly and you want to share with future students, you can use figshare . If you have small data files that your supervisor says is not OK to share publicly and you want to share with future students, you can use the WEHI-wide student intern group on Sharepoint/Teams. . If you have big data files and you want to share with future students, you can talk to your supervisor about using VAST projects . It would be rare for students to need a VAST project space, so please ask your supervisor first. Research Computing Platform (RCP) also has training courses available for things like Python, Git, Linux, Milton and more . RCP also has a drop-in session that you can go to ask technical questions about high-performance computing (HPC), Slurm usage, cloud computing, general programming, R, Python, package development, code optimisation, data processing, data storage, and data management.",
+        "topic": "FAQ",
+        "keywords": [
+            "data",
+            "hpc",
+            "share",
+            "use",
+            "want"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#i-need-to-use-storage-and-compute-what-are-my-options"
+    },
+    {
+        "title": "If I want to use Nectar, what suggestions would you have?",
+        "content": "If I want to use Nectar, what suggestions would you have? Make sure you use \u201cAny Availability Zone\u201d if you are using Nectar as some of the University of Melbourne hosts are full. It is recommended to use NeCTAR Ubuntu 22.04 LTS (Jammy) amd64 so that students can share documentation between projects and intakes. Make sure you enable 22 SSH access with 0.0.0.0/0 using CIRS. See the Nectar SSH troubleshooting guide . If you want to run a web server, it is recommended to use SSL and therefore you will need to enable 443 HTTPS access with 0.0.0.0/0 using CIRS. See the Nectar SSH troubleshooting guide . If you want to run a flask development server, it is recommended to use SSL and therefore you will need to enable port 5000 access with 0.0.0.0/0 using CIRS. For other non-standard ports you will have to do a similar setup. See the Nectar SSH troubleshooting guide . We should also have a standard to setup a SSL web certificate in the future.",
+        "topic": "FAQ",
+        "keywords": [
+            "nectar",
+            "recommended",
+            "ssh",
+            "use",
+            "using"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#if-i-want-to-use-nectar-what-suggestions-would-you-have"
+    },
+    {
+        "title": "Is it OK for me to post on social media?",
+        "content": "Is it OK for me to post on social media? Yes, but please read the Social Media Policy for student interns .",
+        "topic": "FAQ",
+        "keywords": [
+            "interns",
+            "media",
+            "ok",
+            "policy",
+            "social"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#is-it-ok-for-me-to-post-on-social-media"
+    },
+    {
+        "title": "My project is complex and ambiguous - what can I do to deal with this?",
+        "content": "My project is complex and ambiguous - what can I do to deal with this? All of the projects are complex and ambiguous. This is an explanation on how to deal with a complex and ambiguous project .",
+        "topic": "FAQ",
+        "keywords": [
+            "ambiguous",
+            "complex",
+            "deal",
+            "explanation",
+            "project"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#my-project-is-complex-and-ambiguous---what-can-i-do-to-deal-with-this"
+    },
+    {
+        "title": "What is the overall structure of the internship going to look like?",
+        "content": "What is the overall structure of the internship going to look like? To understand how the overall process of the project please look at the Key milestones and onboarding emails page .",
+        "topic": "FAQ",
+        "keywords": [
+            "emails",
+            "going",
+            "internship",
+            "look",
+            "overall"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like"
+    },
+    {
+        "title": "You ask us to be as independent as possible. How can we do that?",
+        "content": "You ask us to be as independent as possible. How can we do that? Rules of thumb for being independent: If you don\u2019t know why at a high level, you won\u2019t be independent. Always take the time to understand high level, so that you can anticipate the client The idea is that you can guess what the client (me) is going to say before I say it And the idea is to ask a question, knowing what the client is going to say, this allows you to test your understanding of the problem If you ask a question, and they say something different, then you need to ask why",
+        "topic": "FAQ",
+        "keywords": [
+            "ask",
+            "client",
+            "going",
+            "independent",
+            "say"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that"
+    },
+    {
+        "title": "We are required to interview a number of people to gather insight into their career pathway. How can I arrange this with you?",
+        "content": "We are required to interview a number of people to gather insight into their career pathway. How can I arrange this with you? For those doing the Bachelor of Science or the Master of Data Science course, you will need to ask a series of questions to a supervisor about their career.\nThe questions are as follows: How did you get started in this field, and what do you think has made you successful throughout your career? Are there other ways that people you know entered this field? What are the pros and cons of working in this field? What traits, skills, or experiences do employers in your field look for in candidates? If you were me, what would you do to try to break into this field now? Are there particular publications, professional associations, or events I should explore for additional information on this field? Would you advise me to speak to others about breaking into this field? Can you recommend anyone in particular? There is a video available at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. Once you have watched this, if you have further questions, please email me and we can arrange a time to chat about this as a group.",
+        "topic": "FAQ",
+        "keywords": [
+            "career",
+            "field",
+            "people",
+            "questions",
+            "science"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#we-are-required-to-interview-a-number-of-people-to-gather-insight-into-their-career-pathway-how-can-i-arrange-this-with-you"
+    },
+    {
+        "title": "We are required to request supervisor signature for the Work Log. How can I arrange this with you?",
+        "content": "We are required to request supervisor signature for the Work Log. How can I arrange this with you? For those doing the Bachelor of Science or the Master of Data Science course, it is required to complete this supervisor signature work using DocuSign . This ensures that your work log is verified accurately and submitted on time. To arrange this: Sign Up for DocuSign : Use the free 30-day trial of DocuSign. This service allows you to send documents for electronic signature, making the process efficient and convenient for both you and your supervisor. Prepare Your Work Log: Ensure your work log is complete and ready for signature. Send for Signature: Upload your work log to DocuSign, add your supervisor\u2019s email, and send it for their electronic signature. By using DocuSign, you can efficiently obtain your supervisor\u2019s signature and ensure that your work log is ready for submission.",
+        "topic": "FAQ",
+        "keywords": [
+            "docusign",
+            "log",
+            "signature",
+            "supervisor",
+            "work"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#we-are-required-to-request-supervisor-signature-for-the-work-log-how-can-i-arrange-this-with-you"
+    },
+    {
+        "title": "What should I put in the public wiki?",
+        "content": "What should I put in the public wiki? The public wiki is to share information with future students the things you needed to understand at a high level to be able to start working on the technical side of the project. General knowledge to put into the wiki would include (among others): A diagram showing how the high-level parts of the system interact A diagram of how the biology works at a simple level that you need for the project A diagram to show how the overall steps of the workflow and a simple explanation of why each step is done NOTE: Please ensure that anything you put in the public domain is not private. The rule of thumb is that if you found the material on the public internet, you can treat it as public. If you found the material within WEHI or from a WEHI source, you should ask if you can make it public. If you are not sure, please ask your supervisor.",
+        "topic": "FAQ",
+        "keywords": [
+            "ask",
+            "diagram",
+            "level",
+            "public",
+            "wiki"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki"
+    },
+    {
+        "title": "What should I put in my technical diary?",
+        "content": "What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors",
+        "topic": "FAQ",
+        "keywords": [
+            "documents",
+            "help",
+            "notes",
+            "sharepoint",
+            "technical"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary"
+    },
+    {
+        "title": "How should I ask for help to solve a problem?",
+        "content": "How should I ask for help to solve a problem? There is a way to escalate how to ask for help. This shows you how you can do your proper due diligence before you send your supervsior an email with a question. Before you send that email: Did you search through this FAQ, check the onboarding doc , and the wiki onboarding page via the project pages ? Did you search for a keyword? If it is a broad question, did you do an internet search? Did you ask your project teammates to help you? That is what team mates are for! Did you write down in the email what actions you took in steps #2 and #3 so I know what you have tried? Did you specify exactly what you are having a problem with? ie. \u201cI had trouble with a document\u201d vs \u201cI had trouble accessing ABC.doc in Sharepoint folder X\u201d. Did you cc in your team mates into the email so that they can find out too? Please also make sure you explain the problem in detail, with screenshots and any error messages . These should be saved into your technical diary that should be stored in Sharepoint.",
+        "topic": "FAQ",
+        "keywords": [
+            "ask",
+            "did",
+            "email",
+            "problem",
+            "search"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem"
+    },
+    {
+        "title": "What are the key things to do before the weekly meetings?",
+        "content": "What are the key things to do before the weekly meetings? Key things to do before for the regular weekly meeting (yes even the first one that is usually in week 2 although it will be mostly empty): Please meet as a team before the meeting without your supervisors to ensure you as a team of students are all on the same page Please send a weekly email update one business day before the meeting (ie. Friday if you have a Monday meeting) with the subject \u2018[Project name] week [x] update\u2019 eg. \u2018Clinical Dashboards week 3 update\u2019. The email should have: what each student has done, write down any questions you have for the meeting to use as an agenda, provide links to the previous final presentations by previous students, provide a link to the whiteboard session video or image you did (after week 4), provide a summary of the top things you discussed in the whiteboard session (after week 4), provide a link to the wiki and/or the GitHub repository, provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams remember to ask to record the meeting to more easily keep notes if needed, and provide bullet point summary from previous meeting.",
+        "topic": "FAQ",
+        "keywords": [
+            "link",
+            "meeting",
+            "provide",
+            "things",
+            "week"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings"
+    },
+    {
+        "title": "What happens over Christmas / New Year / Easter period?",
+        "content": "What happens over Christmas / New Year / Easter period? We take a break between Christmas and New Year, as well as the first week of January as well. During the time away there is no need to write and send the weekly update email during the break. We do encourage you to write down questions and what you have done in your technical diary so that you can ask questions when we are back in the second week of January. Remember, we ask you to write up a presentation to say what you think you should do on the project. This helps you become independent. If you do decide to do some work over the holidays, understanding the high level problem will help you make decisions at a technical level without your supervisor\u2019s help. Easter break usually has three public holidays at WEHI Good Friday, Easter Monday and Easter Tuesday. We take a break on those days. You can confirm the breaks via the Public and WEHI holidays on Catalyst .",
+        "topic": "FAQ",
+        "keywords": [
+            "ask",
+            "break",
+            "easter",
+            "holidays",
+            "write"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-happens-over-christmas--new-year--easter-period"
+    },
+    {
+        "title": "What do I need to do for my final presentation and summary report?",
+        "content": "What do I need to do for my final presentation and summary report? The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. We create a single document for all summary reports to be filed together. You will be sent a link to this document when it is ready. The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes. For your final presentation \u2013 please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. A good example of a set of slides is here. And here is another final student presentation example, although it is a little long. . The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more. Maximum time for the presentation is 15 to 20 minutes.",
+        "topic": "FAQ",
+        "keywords": [
+            "draft",
+            "final",
+            "presentation",
+            "report",
+            "summary"
+        ],
+        "source": "https://wehi-researchcomputing.github.io/faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report"
+    },
+    {
+        "title": "Content from RCP0032 Intake 10 Student Internship Summary Reports",
+        "content": "RCP#0032 Intake 10 Student Internship Summary reports  Table of Contents                            Link to Intake 9 Summary Report  RCP#0016 Intake 9 Student Internship Summary reports.pdf that can be used as an example.   AIVE Student Project Interns:  Si Yang (Sean) Chen, Chun-Tung (Chloe) Tsai, Jiawen Deng High-Level Domain work During the first 4-5 weeks, we learned about and tried to understand the AIVE workflow for converting 2D cell image stacks into 3D models and familiarised ourselves with software tools used in the workflow such as ImageJ, MIB and WEKA. Our in-depth understanding was presented in the whiteboard presentation, which detailed key stages in AIVE\u2019s workflow. The team also developed high-level flowcharts showing the entire process and the interconnected stages. Subsequently, we decided to work on the organelle segmentation stage. We converted two ImageJ macros (macros 1 and 1b) from ImageJ Macro Language into Python code for better reproducibility. Building on the public wiki created by previous interns, we added technical documentation and additional notes for both our and previous features, including detailed explanations and flowcharts, to help future interns and people without prior knowledge understand AIVE more easily.    Architecture / Algorithm work  Macro 1:              Macro 1b:  \nTechnical work Macro 1: Image stack is loaded into program and all unique pixel values in entire stack are computed. These pixel values are used as thresholds, which are applied to each image slice in stack to create stacks of binary masks. The mask stack is saved and this is repeated for each threshold.  Macro 1b: The process starts by selecting the input image file (HeLa.tiff) and specifying the output directory. A Gaussian blur is then applied with an XYZ radius of X = 3, Y = 3, and Z = 1, chosen to account for the anisotropic voxel dimensions (3 nm in X and Y, 10 nm in Z). These values ensure consistent blurring across the real-world voxel sizes. Users may need to adjust blur parameters or consider kernel size for different datasets. The macro then processes the entire image stack, saving the results in new stacks.  Key Links \u2022 Whiteboard Presentation: Whiteboard presentation flowchart \u2022 Final Presentation: Final Presentation slides \u2022 Public GitHub: https://github.com/MitochondRuna/AIVE-Intro/wiki \u2022 Python Macros Link: https://github.com/MitochondRuna/AIVE-Intro/ImageJ macros \u2022 Personal Technical Notes: Technical Notes  Clinical Dashboards Student Project Interns: Kathleen Wongso, Jane Xu, Lucas Valente, Yixin Jiang  High-Level Domain work REDCap / Simulacrum Aspect: One of our goals for this aspect of the project was to make use of a larger and more complex dataset (i.e. Simulacrum) than the previous intake used. We aimed to upload as much of the Simulacrum V2 data as we could to REDCap, which shaped how we cleaned our dataset. We also wanted to see if we would break REDCap with the new, larger dataset.   Security Aspect: x  Architecture / Algorithm work  The structure of this project is demonstrated by the following flow chart:  REDCap / Simulacrum Aspect:  1. Cleaned Simulacrum V2 data a. Fixed column names (lowercased all field variable names and added underscores due to REDCap guidelines for field names) b. Identified invalid records \u2022 Assumed \u2018gender_patient\u2019 was based on sex assigned at birth ->  records of female patients with prostate cancer & male patients with gynaecological cancer \u2022 Records where treatment (radiotherapy and chemotherapy /hormonal therapy) occurs after death of patient \u2022 Patients that died before treatment / diagnosis \u2022 Treatments that occurred before tumour diagnosis c. Removed invalid records across the different tables  2. Defined a data dictionary for REDCap a. Defined the instruments: Av Patient, Av Tumour, Av Gene, Sact Regimen Outcome, Sact Cycle, Sact Drug, Rtds (each is a separate table) b. Defined repeating instruments (number of treatments and tumours varied across the patients) c. Defined valid field value types for certain field variables (e.g. \u2018gleason_combined\u2019 in av_tumour defined to only take type \u2018integer\u2019)  3. Uploaded onto REDCap through the API a. Obtained REDCap API token b. Obtained importing function from previous intake\u2019s git c. Uploaded tables via the API  Security Aspect:  Technical work REDCap / Simulacrum Aspect:  Python was the main programming language that we used. We conducted data preprocessing on the Simulacrum dataset by removing records that are not accurately reflected in the real world (e.g. female patients with prostate cancer, treatments that occurred after death). We also ensured consistent schema for the dataset in order to adhere with the data dictionary defined in REDCap. We had to define repeating instruments in REDCap due to the varying nature of number of treatments or tumours per patient. Finally, we uploaded (to the best of our abilities) the cleaned datasets onto REDCap using the API. However, due to complications caused by uploading via the API we were only able to upload the av tables and some of the sact_outcome_regimen merged table that we created after cleaning the data. Hence, we broke REDCap and it presents the question: \u201cis REDCap the best way to store this information?\u201d. Also, Simulacrum does NOT include location-specific data (the closest is the type of place a patient died, e.g. a hospital or hospice), so a new visualisation dashboard might need to be made if that\u2019s the aim of a future intake.   Security Aspect: We created a Django application to act as an authentication wrapper around an Rshiny app. Thus access is controlled by Django\u2019s authentication layer and users log in via SSO, which we paired Django with mozilla-django-oidc to accomplish. Currently our SSO server is auth0 but the aim is to move to AAF. We have set up the application such that all that would be needed to move to AAF would be to set the environment variables for server address & security key once AAF provides those, as well as doign any configurations that AAF require on their end. The authorisation is achieved by Django creating user sessions with the \u2018users\u2019 from SSO stored in a PostgresSQL database.  Testing was done locally but the application is packaged in docker and can easily be deployed to a correctly configured nectar server that opens the relevant ports.  Currently the embedded application is   Key Links \u2022 Our final presentation \u2022 Our Github repository \u2022 Our technical diary                   BioNix Student Project Interns: Cat Tuong Anh Nguyen, Di Wu, Liam Mclnerney High-Level Domain work During the first few weeks of the project, we learned about the Nix ecosystem and the required bioinformatics knowledge for the software that we are going to wrap into BioNix. In particular, terms like metagenomics or taxonomic classification for Kraken2, or tandem repeats for TRF. All our knowledges are then presented in a meeting on a whiteboard for our supervisors to correct any false interpretation.  The research is then compiled by us to be added into the existing BioNix wiki by WEHI, including any modifications so that the page is more coherent and user-friendly. We added a project introduction page, added some more questions to the FAQ, and had a scan through the existing information to make sure they are non-repetitive, correct, coherent, uniform and change them if necessary Architecture / Algorithm work  We had help from our instructor to visualize what an expression to wrap our software would look like, combined with our learning from both the existing package-base, and our personal research. We understood the basic structure of the expression, and how Kraken2 would require no configuration, because all the configs are already in the GitHub repository, or how TRF require thorough management of its dependencies.  In addition, we understood the contribution steps for nixpkgs and ensure that our expressions abide by the rules. Technical work \u2022 Finalized the expression of wrapping TRF to BioNix. \u2022 Made prototypes of expressions to wrap Kraken2. \u2022 Wrote and tested the prototype expressions for Kraken2.  Key Links \u2022 Fork repo of the wiki \u2022 Trello to manage tasks \u2022 Final Presentation Conference Organiser Student Project   Interns: Zheyuan Wu, Antonio Wang, Wingyee He, Natasha Ngo, Jiaxi Zheng High-Level Domain work The Conference Organiser project aims to streamline the annual RSEAA conference, which fosters inclusivity and recognition for software engineers worldwide. In the second intake, the team focused on two key areas. First, a dynamic HTML page was developed to update key dates on the main website, RSEAA.org.au, enhancing user experience. Second, the team focused on creating a platform that drew inspiration from a popular live polling application called CrowdPurr. Within this polling project, the team was divided among two sub-projects: One focused on extending Claper, an existing open-source live polling tool, while the other group built a custom live polling application from the ground up using React.  Architecture / Algorithm work   Claper architecture:  React Live Polling: High-level Architecture: Database Architecture:   Technical work  Live polling application:   Frontend: React Library (HTML, Javascript, CSS) Backend (Database and functionality):  Testing and integration: NectarVM (used for docking)   Claper:  Frontend: HTML, TailwindCSS Backend: Elixir, Phoenix Testing and integration: NectarVM  Webpage:   Simple HTML, CSS and JavaScript  Key Links  - Live polling react application: https://github.com/ngonatasha/WEHI-Conference-Organiser - RSEAA webpage: https://github.com/ngonatasha/RSEAA.github.io - Project Claper: https://github.com/Jazzzheng9/Claper.git - Original Claper: https://github.com/ClaperCo/Claper - Final presentation: Conference Organiser Final Presentation.pdf - Whiteboard presentation: Conference Organiser Whiteboard presentation.pdf - Technical diary: Technical Diary  Data Commons / REDMANE Data Registry Student Project  Interns: Haoxuan Lu, Jeremy Lau, Natasha Mulay High-Level Domain work The Data Registry is a web-application that connects Raw and Processed Data to the Data Portals such as cBioPortal, Omero, Aquila etc., to form the Data Commons/REDMANE. It has four main components, the front end, the backend, the database and the virtual machine (Nectar). As the Data Registry subgroup, we addressed the frontend, backend and VM as the main areas of work. The frontend involved the creation of different components such as the Projects components which linked to the Patients and Datasets components (Figure 1).  Architecture / Algorithm work   Figure 1. ER diagram of different components within the frontend of the Data Registry and how they link together.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Technical work Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Key Links Frontend with React (Current): https://github.com/jeremlll/REDMANE_react.js Frontend with React (Base): https://github.com/HxLu03/DataCommons FAST API (Working one): GitHub - jeremlll/REDMANE_fastapi   Data Commons / REDMANE Data Ingestion Student Project Interns: Xinyu Wang, Boyu Chen, Chelsea Kwan, Bucheng Liu High-Level Domain work The aim of the Data Commons Project is to: Allow for ease of access to various datasets for researchers and stakeholders  Ability to locate raw/processed data stored on local servers through links on the data registry  Access summarised data and visualisations on data portals  Form connections between data registry, local servers and external data portals (cBioPortal, Aquila etc.) For the Data Ingestion, the primary goal is to Ensure that datasets are validated and ingested into cBioPortal.  Key responsibilities would include validating datasets using the validator tool, ingesting validated datasets into the cBioPortal system, and setting up and manage the infrastructure for the ingestion process.  Architecture / Algorithm work   Summary Diagram:   Architecture:  Platform Data Workflow     Technical work Setting up the virtual environment: Ubuntu VM Setup:  Create an Ubuntu virtual machine (VM) on the server to run the validator and manage the ingestion process.  Portainer for Docker Management:  Install and use Portainer to manage Docker containers for deploying the ingestion environment.  Key Links Data Ingestion Documentation Data validator repo: https://github.com/Morning-NFX/DataCommons-cBioPortal Example dataset repo: https://github.com/Morning-NFX/DataCommons-dataset  https://github.com/cBioPortal/cbioportal https://docs.cbioportal.org/using-the-dataset-validator/ https://docs.cbioportal.org/file-formats/          Data Commons / REDMANE Authentication Student Project Interns: Trung Ngo, Lucas Speak High-Level Domain work The primary focus of the project was to establish a modern and seamless authentication system to protect sensitive data within a medical research data registry. The data registry is a web application which was concurrently developed by the Data Commons Data registry team. Authentication ensures that only authorized users can access the system, preventing unauthorized access and data misuse. This protection is critical because it safeguards not only WEHI's research interests but also the privacy rights of patients whose medical data is being managed.  The choice of authentication protocols had to align with industry standards and requirements to ensure compliance with security and privacy regulations while supporting Single Sign-On (SSO) for ease of access.  High level work consisted of:  - Researching what resources were available and suitable for this project. - Understanding how different authentication protocols worked, and the advantages/disadvantages of each. - Identifying the requirements of the authentication system. This work resulted in making the following decisions: - OpenID Connect (OIDC) was selected as the primary authentication protocol due to its suitability for research organizations, as recommended by the Australian Access Federation (AAF). OIDC supports both SSO and social login, offers flexibility in integrating different identity providers, and is simpler to implement compared to alternatives like SAML.  - Keycloak, an open-source identity and access management system, was chosen to run on the authentication server. It offers ease of setup, sufficient security for non-critical use cases, and eliminates the licensing costs associated with platforms like Auth0. Keycloak also allows integration with AAF as an identity provider, leveraging OIDC to provide seamless access for Australian researchers. Architecture / Algorithm work  The following diagram depicts the typical authentication sequence for a user signing into the data registry using their Okta credentials:  Technical work Luke: - Researched OIDC and authentication tools. - Discovered, installed and configured Keycloak - Implemented OIDC authentication flow with demo Python script and keycloak. Trung: - Deployed Keycloak with test web application to implement the OIDC authentication protocol.  - Modified Keycloak realm to accept Auth0 as an Identity Provider. - Created and performed authentication demo in final presentation. Key Links Authentication set-up docs: https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication?csf=1&web=1&e=54AxBl Final presentation (slides): https://wehieduau.sharepoint.com/:p:/s/StudentInternGroupatWEHI/EYQh5qAhApVJjh51r84NQgcBKihFHMF2nj8x3ctK39fQjw?wdOrigin=TEAMS-MAGLEV.null_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1728513382398&web=1 ^OUTDATED OIDC demo python script (rough): https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/OIDC%20Python%20demo?csf=1&web=1&e=dlAegm  Genomics Invoicing Student Project Interns: Changyuan Ni, Jiayi, Li, Iffat Azeez, Ramon Felipe High-Level Domain work Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Architecture / Algorithm work  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Technical work Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.   Key Links \u2022  Haemosphere Student Project Interns: Michele Meliala, Lady Feren Pangjaya, Thanh Pham, Thi Hong Minh Dao, Zachary Iskandar  High-Level Domain work Our group\u2019s work was the continuation of the ongoing migration of Haemosphere from Python 2 to Python 3, due to Python 2 no longer being supported. We mainly focused on improving overall speed on the site, and improving the scalability of the site to accommodate multiple simultaneous users without crashing. After extensive testing, we determined that a caching-related approach was the best solution for performance enhancement. In addition, we made minor improvements to the existing tutorials and documentation, so that hopefully future intakes will have a smoother and less confusing onboarding experience.  We implore future intakes to explore this caching solution in greater depth to assess its feasibility, and to debug some datasets such as Schultze and Immgen to make them compatible with the new Python 3 framework, as well as any other necessary improvements to the site to further enhance the user experience. In the longer term, we also recommend Haemosphere to be migrated to a supported version of Python, as support for the destination version (Python 3.6) ceased in December 2021, almost three years ago at the time of writing.  Architecture / Algorithm work We trialled several different solutions and measured the impact each solution had on improving speed and performance. These included increasing the RAM of the virtual machine, pre-loading data onto RAM cache and utilising disk cache. Through performance testing, we found that a large memory virtual machine with caching was the most efficient in terms of speed and reliability. We also explored changing file formats using .h5 and .parquet, but this method was overcomplicated and only yielded minimal improvements compared to other methods.   Technical work Fixed minor bugs that prevented us from running the server (typos, missing dependencies during the onboarding process, tweaks to config files) Took the opportunity to explore the option of a higher memory VM after the hosting arrangement with the University for the publicly accessible version of Haemosphere was changed Conducted performance testing on various differential expression datasets to assess performance and detect errors for future intakes to fix, as well as to compare different server configurations Implemented RAM and disk caching, which significantly improved performance   Key Links \u2022 Haemosphere website \u2022 Public Github repository \u2022 Sharepoint \u2022 YouTube link for presentation (add link when uploaded)   Student Organizer Student Project  Interns: Jiaman(Mandy) Xu, Xiaoqing(Betty) Hu, Yiyang Chen, Yovela Budiman High-Level Domain work The team analyzed the web app's code, setting short, mid, and long-term goals. Short-term tasks, like improving the navigation bar, creating filtered student lists, and updating the public data schema and database, were completed. Mid-term goals, such as linking project and intake pages and refining the UI, are underway. Long-term goals, including database optimization and platform migration, are set for future interns. Documentation in the project wiki and SQL scripts ensure smooth handovers for upcoming cohorts. Architecture / Algorithm work  The project uses a modular architecture, making it easy to test and integrate new features. A responsive navigation bar adapts to different screen sizes, with dropdowns for better organization. Key features include dynamic student lists, email copy functionality, and direct links between project, intake pages, and filtered student lists, streamlining navigation. Technical work \u2022 Frontend (UI/UX): o Designed a responsive navigation bar using HTML and CSS for seamless navigation across devices, incorporating dropdown menus for different sections. o Developed subpages for student lists (current, future, past, all students) and added buttons linking intake and project pages with pre-filtered data. \u2022 Backend (Database & Functionality): o Generated fake test data and updated database schemas accordingly. o Created upgrade_database.sql to document and maintain database changes for future students. \u2022 Testing & Integration: o Tested the system using Nectar VM to simulate real-world user behavior and ensure smooth functionality.  Key Links 1. Link to the wiki:   https://github.com/WEHI-ResearchComputing/student-intern-organiser/wiki 2. Link to the Technical notes:  Technical Notes 2024 S2 3. Link to the Final Presentation slides in SharePoint:                        Genomics Invoicing Project: Interns:  Changyuan (David) Ni, Jiayi (Joyce) Li, Ramon Felipe, Iffat Abdul Azeez High-Level Domain work The team first learns in detail the client\u2019s original workflow, in which the client wishes to have the tedious manual process of producing invoices automated. The team drafted and refined the wireframe for the concept of automation app in generation of genomic invoices. The team considered architectural limitations of the deployment environment and develops software architecture of the app based on the limitations. Architecture / Algorithm work Here is the link to the architecture diagram the team developed:  https://lucid.app/lucidchart/295c39f2-77b2-4cd8-9a64-bced69e188b7/edit?viewport_loc=379%2C407%2C4469%2C2110%2C0_0&invitationId=inv_91729030-3e45-4bcf-aac6-ce3bb4682304 Technical work The team configured and tested the local development environment, server-side deployment environment and the protocol for connecting to the server at WEHI. The team develops an upload interface, with testing files and correct output ready.    Key Links 1. Link to wiki, all relevant links are found in the wiki: Genomics-invoicing wiki \u00b7 Ayacolyte/genomics-invoicing Wiki \u00b7 GitHub   ",
+        "topic": "RCP0032 Intake 10 Student Internship Summary Reports",
+        "keywords": [
+            "data",
+            "github",
+            "project",
+            "technical",
+            "work"
+        ],
+        "source": "RCP0032 Intake 10 Student Internship Summary Reports.pdf"
+    },
+    {
+        "title": "Content from Research Computing Platform Student Internship Handbook",
+        "content": "Research\nComputing\nPlatform\nStudent Handbook3\n4\n5\n6\n7\n8Introduction\nPhilosophy\nBenefits for Students\nNumbers behind the program\nCode of Conduct\nWant to know more?Table of ContentsIntroduction\nThe Research Computing Platform (RCP) is a  \ncollaborative, multi-disciplinary lab that\nsupports and advocates for researchers and\ntheir computational research needs at WEHI.\nRCP has established a 100% remote, unpaid\nstudent internship program with subjects\nprovided at the University of Melbourne. We\ndid this to leverage the experience we have in\nthe RCP of working with student software\ninterns by collaborating with labs. \nBecause this is unpaid, we aim to get students  \nvia the official programs at the University of\nMelbourne so they can obtain course credit.\nThis program allows us to share our\nknowledge and experiences with the students\nto help them to build their confidence so thatthey know that they have the skills and\ninitiative to handle future situations.\nThere are three intakes during the year,\nSemester 1, Semester 2, and Summer.\nWe aim to share the information from our\ncurrent student interns to our future student\ninterns. We do this by getting our current\nstudents to document the nuances of the\nproject and the challenges that they faced. \nWe are constantly trying to improve the\nexperience for our students and always\nappreciate feedback.\nWhile our most consistent feedback is to have  \nan in-person work environment, we are only\nproviding 100% online work environments.\nWEHI RCP  Student Handbook | 3Students at RSE Parkville lunch that happens on the second Thursday of each month.Proactive\nProactiveProactive\nProactive\nConcept-first approach\nIt is important for students to\nunderstand the high-level concepts of\nthe domain the student is working in.\nThis increases the independence of\nthe student to work through complexity.\nTest your limits\nThe ability to learn quickly by doing\nyour own research is important.\nFinding out how fast you learn and\nwhere your limits are, in a safe space,\ncan help you to know yourself better.Philosophy\nDocumentation is Key\nStudents need to recognise the limited\ntime they have and what they can\nachieve. This is why documentation is\nkey to ensure information is passed to\nfuture students.\nCollaboration is vital\nThere are multiple internships running\nat the same time. We encourage\nstudents to collaborate within projects\nand across sister projects (similar\nprojects) via co-working meetings.\nWEHI RCP  Student Handbook | 4Benefits for Students\nThere are many benefits for student interns in\nthis program to help them progress in their\ncareers by giving them opportunities to grow\nand learn in a safe environment and achieve\ntheir potential, which builds confidence.\nMany students start the program having some\nlevel of technical skills, but very little\nunderstanding of how important it is to know\nthe nuances and concepts of the work\nenvironment and domain knowledge.\nThis is why we give them the time to research\nthe concepts and give them feedback on how\nto refine those concepts.\nStudent interns are provided with honest\nfeedback to show where their skills and\nabilities place them, what kind of organisation\nthey might be a good fit with, and how they\ncan improve during and after the internship.Students also get the opportunity to learn real-\nworld skills such as keeping meeting notes,\ndocumentation, learning how to communicate,\nand giving presentations. \nStudents also get the opportunity to deal with\nrealistic data and real world problems, where\nthe answers and the technical solution is not\nso clear as in their coursework.\nStudents are encouraged to self-direct during\nthe internship. Balancing what the student\nwants to do and benefiting WEHI is a great\nexample of a fantastic project.\nAll in all, students have the opportunity to\nleave the internship with an improved sense of\nconfidence that they have the ability to handle\nnew environments and domains, even if they\nhaven't worked in that area before. This is the\nbest outcome we can hope for as supervisors.\nWEHI RCP  Student Handbook | 5\nTop L-R: Youran Zhou, Marika Benetti-Hille. Bottom L-R: Rowland Mosbergen, Gilbert Putra.Numbers behind the program\n17\nstudent projects\n104\nstudent interns\n19,000+\nhours of effort4.7/5\nstudent rating\n9\nprojects per intake\n30\nstudents per intake\nWEHI RCP  Student Handbook | 6Code of Conduct\nThis was originally taken from the Code of\nConduct from Django. This is a snippet of the\nfull Code of Conduct on the website.\nThis community is made up of a diverse\nmixture of researchers, research software\nengineers, professionals and students.\nDiversity is what we are hoping to improve our\ncommunities and workplaces, but it can also\nlead to communication issues and\nunhappiness. \nTo that end, we have a few ground rules that\nwe ask people to adhere to. This code applies\nequally to founders, mentors and those\nseeking help and guidance.\nThis isn\u2019t an exhaustive list of things that you\ncan\u2019t do. Rather, take it in the spirit in which\nit\u2019s intended -a guide to make it easier to\nenrich all of us and the technical communities\nin which we participate.\nThis code of conduct applies to all spaces\nmanaged by the group. This includes chat\nrooms, the mailing lists, events, and any other\nforums created by the platform which the\ncommunity uses for communication. \nIn addition, violations of this code outside\nthese spaces may affect a person's ability to\nparticipate within them. If you believe\nsomeone is violating the code of conduct,\nplease let us know.\nThe key points are:\nBe friendly and patient.\nBe welcoming.\nBe considerate.\nBe respectful.\nBe careful with the words you choose.We strive to be a community that welcomes\nand supports people of all backgrounds and\nidentities. This includes, but is not limited to\nmembers of any race, ethnicity, culture,\nnational origin, colour, immigration status,\nsocial and economic class, educational level,\nsex, sexual orientation, gender identity and\nexpression, age, size, family status, political\nbelief, religion, and mental and physical ability.\nYour work will be used by other people, and\nyou in turn will depend on the work of others.\nAny decision you take will affect users and\ncolleagues, and you should take those\nconsequences into account when making\ndecisions. Remember that we\u2019re a diverse\ncommunity, so you might not be\ncommunicating in someone else\u2019s primary\nlanguage.\nNot all of us will agree all the time, but\ndisagreement is no excuse for poor behavior\nand poor manners. We might all experience\nsome frustration now and then, but we cannot\nallow that frustration to turn into a personal\nattack. It\u2019s important to remember that a\ncommunity where people feel uncomfortable\nor threatened is not a productive one.\nMembers of the community should be\nrespectful when dealing with other members\nas well as with people outside the community.\nWhen we disagree, try to understand why.\nDisagreements, both social and technical,\nhappen all the time and we are no exception. It\nis important that we resolve disagreements\nand differing views constructively. Remember\nthat we\u2019re different. The strength of this\ncommunity comes from its diversity. Different\npeople have different perspectives on issues.\nBeing unable to understand why someone\nholds a viewpoint doesn\u2019t mean that they\u2019re\nwrong. \nWEHI RCP  Student Handbook | 7Want to know more?\nAll the information on this page is on the\nwebsite\u2019s main student page via the QR code\ndown below.\nFAQ\nThere is a FAQ on the website under \u201cKey\nDocuments to review and FAQ\u201d.\nThis FAQ provides information on:\nApplying for the internship program,\nOnboarding onto the program,\nWhat is expected at meetings, and\nWhat is expected when you finish.\nKey Milestones and Emails\nThe Key Milestones and Emails page can be\nfound under \u201cKey Documents to review and\nFAQ\u201d.\nAt the bottom fo the Key Milestones and\nEmails page you can find the onboarding\nemails that are sent out throughout the intake\nto remind students of the expectations of the\nprogram.\nLearn real world skills\nWe prepare students for the real-world by\nteaching them:\nhow understanding the domain problem\nand the users is more important than\ntechnical skills, and how to work on a\ncomplex, ambiguous project,\nshowing them how to become as\nindependent as possible,\nshow them how to document and share\nknowledge to others in a professional\nmanner,\nexplain how a software maturity model can\nhelp clarify expectations, and\nteaching them how to work productively in\na remote environment.We even tell students how to try to avoid the\ntop 5 mistakes that students make.\nAvailable Projects\nThere is a list of available projects under the\ntitle \u201cList of student intern projects\u201d.\nThese projects change from intake to intake,\nso please reach out if you are unsure via\nemail:  mosbergen [dot] r [at] wehi [dot] edu\n[dot] au.\nHow to Apply\nWe suggest that you write a 1 page cover\nletter introducing yourself, along with your\nresume. You can find more details under \u201cHow\nto Apply\u201d.\nThis is a popular program as we can get over\n60 applications per intake for only 30 student\nplaces. This is why it can be challenging to\naccomodate all students. We do try our best to\nprovide feedback but this is limited due to the\nnumbers involved.\nWEHI RCP  Student Handbook | 8Research\nComputing\nPlatform",
+        "topic": "Research Computing Platform Student Internship Handbook",
+        "keywords": [
+            "program",
+            "projects",
+            "rcp",
+            "student",
+            "students"
+        ],
+        "source": "Research Computing Platform Student Internship Handbook.pdf"
+    },
+    {
+        "title": "Content from Student Projects Outline - Summer 2425",
+        "content": "Student Projects Outline - Summer 24/25  \n \nIntroduction  \n \nPlease remember these are long -term goals and this internship is a best effort internship. This \nmeans that I am not expecting any of these goals to be completed. I am simply expecting that \nwe're going to do the best that we can, collaboratively.  \n \nWhat I want from you is to be able to take these cryptic notes, watch the final presentations,  and \nuse them to  understand what you might want to do as part of this internship  (see below) . \n \n \n \nKey Links  \nPlease bookmark these key links:  \n\u2022 the Welcome Slides for more general information,  \n\u2022 FAQs to help you troubleshoot problems , \n\u2022 the Student Internship Handbook , \n\u2022 Student Projects Outline  to help explain high level context and tasks,  \n\u2022 the previous summary report from semester 2 2024 , \n\u2022 the Sharepoint from previous intakes that is tied to WEHI -wide student intern group , \n\u2022 you can connect to your team mates, sister projects and skills register.  \n \n \nHigh level context to help with Stage 1  \n \nTo find out more about the projects please look at the information below:  \n \n1. Introduction to REDMANE (slides by Rowland)*  \na. Create synthetic multi -omics data  to match synthetic clinical and other metadata  \nb. Extend functionality of the Data Registry application  in ReactJS and FASTAPI  \nc. Ingestion of data and metadata into the Data Registry using authentication  \nd. Setup authentication for multiple Data Portals  using OIDC, AAF, and KeyCloak  \ne. Setup cBioPortal as a Data Portal  on the Nectar Research Cloud  \nf. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research \nCloud  \ng. Setup Omero as a Data Portal on the Nectar Research Cloud  \nh. Setup Storage Calculator  as a Data Portal on the Nectar Research Cloud  \ni. Identify other Data Portals for key data types  \n2. Clinical Dashboards  \na. Create synthetic multi -omics data  to match synthetic clinical and other metadata  \nb. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research \nCloud  \n3. Student Organiser   \na. Create a way to review resumes quickly  \nb. How can we search through all help documents using RAG LLM?  \nc. Create new views for \"Allocation\" and \"Review resume\" versus \"interview\"  \n \n* for more information on REDMANE please access the General REDMANE FAQ.  \nHigh level  tasks to help build context for Stage 2  \n \nPlease review these and ask lots of questions in weeks 1 and 2. We want you to understand \nwhy and make suggestions to improve these potential tasks.  Asking questions is really \nimportant to ensure you understand why you are doing things!  \n \nProject/Subpr\noject  Bluesky Tasks (not feasible)  REDMANE \nDemo and \nQuality team  \u2022 Setup a permanent demo  \no Data registry with SSL  \no Using synthetic datasets that are stored in data portals:  \n\u25aa Clinical data (WEHI REDCap)  \n\u25aa WGS data (cBioPortal)  \n\u25aa Imaging (Omero)  \n\u25aa Spatial Omics (?)  \no Two organisations (VM) to \u201cstore\u201d large raw synthetic data \nlinked to the other data portals  \n\u2022 Provide Quality Control and first level support to other groups, \nincluding how do you get your code into the demo environment.   \n\u2022 Discuss and draft what is needed for a Data Portal to be accepted \ninto the \u201cApp store\u201d:  \no Has to be dockerized  \no OICD authentication  \no Per dataset authorisation for users and groups  \no Open Source  \no Ability to link back to Data Registry  \no Create empty templates for Django, Flask, Ruby on Rails etc \nthat are ready to be part of the REDMANE ecosystem and \ncan be built on top of easily  \nREDMANE \nData Portals  \u2022 Setup Omero as a Data Portal  \n\u2022 Create synthetic data for imaging or special omics that is tied to \nclinical data and put it into Omero  \n\u2022 Document setup of the system (if needed)  \n\u2022 Work with the Demo and Quality team to classify if Omero  is ready \nto be a data portal  \n\u2022 Setup authentication to be in sync with data registry and cBioPortal  \nREDMANE \nWeb Dev  \u2022 Work on adding more functionality to the data registry based on the \nwireframes  \n\u2022 Add in authentication and authorization into the data registry  \n\u2022 Help the demo and quality team identify what is the definition of a \ndata portal that can work within this ecosystem  \n\u2022 Work with the data integration team to provide an API with \nauthentication  \n\u2022 Review the wireframes in the presentation and identify new pages if \nnecessary  \n\u2022 Set up unit tests as well as functional tests to ensure functionality is \nnot lost  \u2022 Work with the demo and quality team to provide pull requests so that \nnew functionality can be added to the demo environment  \n\u2022 Work with the data integration team to demo how and update from \nan organization who is just received new files would look like  \n\u2022 Discuss with the PDF coding team how you would integrate the \nfunctionality into the data registry  \n\u2022 UI to add in metadata at scale like Stemformatics and tie in \nontologies to ensure metadata is consistent  \nREDMANE \nWorkflows  \u2022 Set up one or two basic workflows using synthetic or public data \nsuch as whole genome sequencing or single cell rnaseq.  \n\u2022 Tie the synthetic data to clinical data along with the clinical \ndashboards team.  \n\u2022 Run this workflow on Milton hpc, possibly using next flow.  \n\u2022 Work with the data registry team to see if they can kickstart a \nworkflow on Milton using information within the data registry for \nthings like input data and where should the output data should go  \n\u2022 Work with the clinical dashboards team to create tutorials of less \nthan 20 slides to explain to a new audience the nuances of the data \nset types  \n \nClinical \nDashboards \nSynthetic Data  \u2022 Create synthetic clinical data within red cap that ties in with data that \nmight already be available in a data portal for example cBioportal  \n\u2022 Create or find public data that could be used to mimic multi -omics \ndata that is tired to the clinical data for example they would have the \nsame sample IDs in the file name of the omics data  \n\u2022 Work with the data ingestion team to ensure that they understand \nthe nuances of the data sets  \n\u2022 Simile work with the workflow team to ensure everyone understands \nthe nuances of the data sets being created  \n\u2022 Work with the workflow team to create tutorials of less than 20 slides \nto explain to a new audience the nuances of the data set types  \nREDMANE \nData Ingestion  \u2022 Create scripts for different operating systems to ingest data into the \ndata registry  \n\u2022 These scripts should create intermediate files to help someone verify \nthe quality and accuracy of the information that is going to be sent to \nthe data registry. This would include a machine readable and a \nhuman readable version of the information such as r o crate  \u2022 These scripts need to hav e some level of authentication to ensure \nthat we keep the information private and secure  \n\u2022 This team should be working with the clinical dashboards team and \nthe workflows team to understand the nuances of the files within \neach data type   \nREDMANE \nCapacity \nPlanning  \u2022 Storage Calculator to calculate future storage needs based on \nprevious numbers  \n\u2022 Work with the REDMANE Data Ingestion team to get numbers and \npossibly will need longitudinal (time series numbers)  \n\u2022 Look at time series databases  \n\u2022 Look at the previous Storage Calculator and use as a basis  \n\u2022 Select two points on a time graph and calculate the extended linear \nregression of those two points  \n\u2022 Calculate and update storage numbers to get better potential costs \nof storage in the future.  \nStudent \nOrganiser Data \nViz \u2022 I need to filter specific views of data across the application. I need a \nper intake view that shows either all students who applied or only \nstudents who finished. I would also like to see a list of students who \nworked on a project in past intakes or for a specific intake  \n\u2022 In a similar vein I would like to calculate some of the numbers for \neach of these specific filtered students such as how many total hours \nwould the student organizer from intake 6 have and what are the \nnames of the students in that intake for that project  \n\u2022 I would also like to visualize the numbers and other dashboard views \nin a more graphical format and some over time as well  \n\u2022 I would also like to build more information into the allocation screen \nwhere I'm assigning students into projects so that I get a better \nunderstanding of the skill set within a team and the hours within a \nteam  \n\u2022 I would also like to improve on the synthetic data set so that it can be \nused to test all the scenarios that the web application can do  \nStudent \nOrganiser PDF \ncoding  \u2022 I want to be able to streamline reviewing a resume and cover letter \nthat is in a PDF form  \n\u2022 I want to be able to highlight a sentence or a paragraph and add a \ncomment. This is the functionality that you can get inside Google \nDrive when you have a PDF.  \u2022 I want to extend this functionality so that not only can I highlight text \ncreate a comment but I also can add one or more tags predefined \ntags about that comment. For example I might highlight a paragraph \nand in my comment I would say this shows excellent communication \nskills and then I would add a tag to that comment called \ncommunication  \n\u2022 I couldn Sport the highlighted text the comments amate and any text \nit at side of that application and stored in the student application as a \nsummary  \n\u2022 I could then access this summary of a person through the allocations \npage when I'm trying to assign students to projects  \nStudent Organiser \nRAG LLM / \nOnboarding  \u2022 I want students to be able to easily search through all the \ndocumentation I have provided on the website and on documents I \nstore in fig share.  \n\u2022 I especially want them to be able to do a search using an LLM and \nreturn accurate data in the form of a link and associated information  \n\u2022 I want to review how we setup the documentation so that it is easy to \nadd documentation into the LLM and it is easy to link to specific \nquestions if needed.  \n\u2022 I also want to review how we onboard students to get them up to \nspeed for the high -level context (stage 1) and the architectural and \nalgorithmic limitations and suggestions (stage 2) so we can move the \n\u201cwhiteboard presentation\u201d from week 4 to week 2 or 3.  \nQuantum \nComputing  \u2022 Reflect on how you like to learn, based on the idea of andragogy, the \nidea of self -directed learning as an adult  \n\u2022 Look at the wiki and the roadmap and decide how you want to learn \nQuantum Computing and what you would like to get out of it  \n\u2022 Create an individual plan for yourself and share with your team \nmates  \n\u2022 Ensure you document your individual plan along the way  \n\u2022 Update the wiki to share an updated version of your plan to help \nothers in the future  \n \nIntake 10 Summary Report  \n RCP#0032 Intake 10 Student Internship Summary reports.docx   ",
+        "topic": "Student Projects Outline - Summer 2425",
+        "keywords": [
+            "create",
+            "data",
+            "synthetic",
+            "team",
+            "work"
+        ],
+        "source": "Student Projects Outline - Summer 2425.pdf"
+    }
+]
