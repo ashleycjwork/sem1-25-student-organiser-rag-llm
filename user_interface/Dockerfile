@@ -1,18 +1,19 @@
-# Use a lightweight Python image
-FROM python:3.9-slim
+# Use an official Python runtime as a parent image
+FROM python:3.8-slim
 
-# Install ChromaDB
-RUN pip install chromadb
-
-# Set the working directory
+# Set working directory in the container
 WORKDIR /app
 
-# Copy the database and script
-COPY data/chroma_db /app/data/chroma_db
-COPY start-chromadb.sh /app/start-chromadb.sh
+# Copy requirements first to leverage Docker cache
+COPY requirements.txt .
 
-# Expose the port ChromaDB runs on
-EXPOSE 8000
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Start the ChromaDB server
-CMD ["bash", "start-chromadb.sh"]
+COPY . .
+
+# Expose the port the app runs on
+EXPOSE 5000
+
+# Command to run the application
+CMD ["flask", "run", "--host=0.0.0.0"]

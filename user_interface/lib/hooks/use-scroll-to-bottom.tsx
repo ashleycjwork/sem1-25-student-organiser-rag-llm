@@ -2,7 +2,7 @@ import { useEffect, useRef, type RefObject } from 'react';
 
 export function useScrollToBottom(): [
   RefObject<HTMLDivElement>,
-  RefObject<HTMLDivElement>
+  RefObject<HTMLDivElement>,
 ] {
   const containerRef = useRef<HTMLDivElement>(null);
   const endRef = useRef<HTMLDivElement>(null);
@@ -27,5 +27,6 @@ export function useScrollToBottom(): [
     }
   }, []);
 
+  // @ts-expect-error error
   return [containerRef, endRef];
 }

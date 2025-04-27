@@ -1,83 +1,98 @@
-<a href="https://ai-sdk-starter-groq.vercel.app">
-  <h1 align="center">Vercel x Groq Chatbot</h1>
-</a>
+# AI Chatbot with Groq
 
-<p align="center">
-  An open-source AI chatbot app template built with Next.js, the AI SDK by Vercel, and Groq.
-</p>
+A modern AI chatbot application built with Next.js, Flask, and Groq.
 
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
-  <a href="#running-locally"><strong>Running Locally</strong></a> ·
-  <a href="#authors"><strong>Authors</strong></a>
-</p>
-<br/>
+## Prerequisites
 
-## Features
+Before you begin, ensure you have the following installed:
 
-- Streaming text responses powered by the [AI SDK by Vercel](https://sdk.vercel.ai/docs), allowing multiple AI providers to be used interchangeably with just a few lines of code.
-- Built-in tool integration for extending AI capabilities (demonstrated with a weather tool example).
-- Reasoning model support.
-- [shadcn/ui](https://ui.shadcn.com/) components for a modern, responsive UI powered by [Tailwind CSS](https://tailwindcss.com).
-- Built with the latest [Next.js](https://nextjs.org) App Router.
-
-## Deploy Your Own
-
-You can deploy your own version to Vercel by clicking the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=Vercel+x+Groq+Chatbot&repository-name=ai-sdk-starter-groq&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fai-sdk-starter-groq&demo-title=Vercel+x+Groq+Chatbot&demo-url=https%3A%2F%2Fai-sdk-starter-groq.labs.vercel.dev%2F&demo-description=A+simple+chatbot+application+built+with+Next.js+that+uses+Groq+via+the+AI+SDK+and+the+Vercel+Marketplace&products=%5B%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22ai%22%2C%22productSlug%22%3A%22api-key%22%2C%22integrationSlug%22%3A%22groq%22%7D%5D)
-
-## Running Locally
-
-1. Clone the repository and install dependencies:
+1. **Homebrew** (macOS package manager)
 
    ```bash
-   npm install
-   # or
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+
+2. **Node.js** (v18 or later)
+
+   ```bash
+   brew install node
+   ```
+
+3. **Yarn** (package manager)
+
+   ```bash
+   brew install yarn
+   ```
+
+4. **Docker** (for running the backend)
+   ```bash
+   brew install --cask docker
+   ```
+
+## Project Structure
+
+```
+.
+├── app/                # Next.js frontend
+├── server.py           # Flask backend
+├── Dockerfile          # Backend Docker configuration
+├── docker-compose.yml  # Docker Compose configuration
+└── README.md
+```
+
+## Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
+   ```
+
+2. **Install frontend dependencies**
+
+   ```bash
    yarn install
-   # or
-   pnpm install
    ```
 
-2. Install the [Vercel CLI](https://vercel.com/docs/cli):
-
-   ```bash
-   npm i -g vercel
-   # or
-   yarn global add vercel
-   # or
-   pnpm install -g vercel
+3. **Set up environment variables**
+   Create a `.env.local` file in the root directory:
+   ```
+   BACKEND_API_URL=http://localhost:5000/chat
    ```
 
-   Once installed, link your local project to your Vercel project:
+## Running the Application
+
+1. **Start Docker Desktop**
 
    ```bash
-   vercel link
+   # Open Docker Desktop from terminal
+   open -a Docker
    ```
 
-   After linking, pull your environment variables:
+2. **Start the backend server using Docker Compose**
 
    ```bash
-   vercel env pull
+   # Build and start the backend container
+   docker-compose up
    ```
 
-   This will create a `.env.local` file with all the necessary environment variables.
+   The backend will be available at `http://localhost:5000`
 
-3. Run the development server:
+3. **Start the frontend development server**
 
    ```bash
-   npm run dev
-   # or
    yarn dev
-   # or
-   pnpm dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view your new AI chatbot application.
+   The frontend will be available at `http://localhost:3000`
 
-## Authors
+4. **Access the application**
+   Open your browser and navigate to `http://localhost:3000`
 
-This repository is maintained by the [Vercel](https://vercel.com) team and community contributors.
+## Development
 
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
+- Frontend code is in the `app` directory
+- Backend code is in `server.py`
+- Use `yarn` for all frontend package management
+- Backend runs in Docker container
