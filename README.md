@@ -38,20 +38,14 @@ Before you begin, ensure you have the following installed:
    ```
 
 ### Setup
-1. **Clone the repository**
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
-
-2. **Install frontend dependencies**
+1. **Install frontend dependencies**
 
    ```bash
    yarn install
    ```
 
-3. **Set up environment variables**
+2. **Set up environment variables**
    Create a `.env.local` file in the root directory:
    ```
    BACKEND_API_URL=http://localhost:5000/chat
@@ -86,6 +80,7 @@ Before you begin, ensure you have the following installed:
 
 4. **Access the application**
    Open your browser and navigate to `http://localhost:3000`
+
 
 ## 🍯 Nectar Project Setup
 
