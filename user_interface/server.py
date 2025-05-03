@@ -1,9 +1,12 @@
-from flask import Flask, Response, request, jsonify
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
 import time
 import uuid
-from typing import Dict, List, Any, Optional
+from typing import Dict, List, Any
+
+#import the keyword search class
+from keyword_search import KeywordSearch
 
 app = Flask(__name__)
 # Enable CORS for your Next.js application
@@ -57,8 +60,12 @@ def chat():
 
         else:  # keyword search
             intro = f"Using Keyword Search for: '{user_message}'\n\n"
-            response_text = "Keyword search focuses on finding exact matches to the terms in your query. I've identified the key terms in your question and found content that contains these specific keywords. This approach is direct and finds precise matches to what you're asking about."
-            # todo: add keyword search logic here
+            # response_text = "Keyword search focuses on finding exact matches to the terms in your query. I've identified the key terms in your question and found content that contains these specific keywords. This approach is direct and finds precise matches to what you're asking about."
+            searcher = KeywordSearch()
+            results = searcher.search(user_message)[0]
+            print(f"\nResult:")
+            response_text = f"Source: {results[1]}\n\nResults from keyword search: {results[0]}."
+
         
         # Add artificial delay to simulate processing time (optional)
         time.sleep(0.5)
@@ -78,3 +85,8 @@ def chat():
 if __name__ == "__main__":
     # In production, use a proper WSGI server like gunicorn
     app.run(host='0.0.0.0', port=5000, debug=True)
+    # searcher = KeywordSearch()
+    # results = searcher.search("What should I put in my technical diary?")[0]
+    # # Print results (just for troubleshooting)
+    # print(f"\nResult:")
+  
