@@ -4,6 +4,7 @@ import json
 import time
 import uuid
 from typing import Dict, List, Any
+from datetime import datetime
 
 #import the keyword search class
 from keyword_search import KeywordSearch
@@ -14,6 +15,15 @@ CORS(app)
 
 # In-memory conversation store (use a database in production)
 conversation_store: Dict[str, List[Dict[str, Any]]] = {}
+
+# Function to log messages to a text file
+def log_message(user_message: str, response_text: str):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_entry = f"Timestamp: {timestamp}\nUser Message: {user_message}\nResponse: {response_text}\n--------------------------------\n"
+
+
+    with open("chat_log.txt", "a") as log_file:
+        log_file.write(log_entry)
 
 @app.route('/chat', methods=['POST'])
 def chat():
@@ -66,7 +76,9 @@ def chat():
             print(f"\nResult:")
             response_text = f"Source: {results[1]}\n\nResults from keyword search: {results[0]}."
 
-        
+        #log the interaction to a file 
+        log_message(user_message, response_text)
+
         # Add artificial delay to simulate processing time (optional)
         time.sleep(0.5)
         
