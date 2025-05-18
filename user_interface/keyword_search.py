@@ -55,11 +55,11 @@ class KeywordSearch:
 searcher = KeywordSearch() # Create an instance of the KeywordSearch class
 results = searcher.search("What should I put in my technical diary?")
 
-# Print results (just for troubleshooting)
-for idx, (snippet, source) in enumerate(results, 1):
-    print(f"\nResult {idx}:")
-    print(f"Source: {source}")
-    print("Snippet:")
-    print(snippet)
-    print("-" * 50)
+# # Print results (just for troubleshooting)
+# for idx, (snippet, source) in enumerate(results, 1):
+#     print(f"\nResult {idx}:")
+#     print(f"Source: {source}")
+#     print("Snippet:")
+#     print(snippet)
+#     print("-" * 50)
 

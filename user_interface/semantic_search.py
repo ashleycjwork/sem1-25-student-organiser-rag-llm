@@ -13,7 +13,7 @@ class SemanticSearch:
             embedding_function=self.embedding_model   
         )
 
-    def search(self, query, k=1, snippet_length=2048):
+    def search(self, query, k=1, snippet_length=10000):
         # Perform semantic search
         results = self.vector_store.similarity_search(query, k=k)
 
@@ -41,14 +41,18 @@ class SemanticSearch:
                 snippet = content[start:end].strip()
             
             final_results.append((snippet, source))
+        
+        # if len(final_results) == 0:
+        #     print("No results found.")
+        #     return [("No results found.", "Unknown")]
         return final_results
 
 
-searcher = SemanticSearch() # Create an instance of the SemanticSearch class
-results = searcher.search("What should I put in my technical diary?") # Perform a search with the query
-for idx, (snippet, source) in enumerate(results, 1):
-    print(f"\nResult {idx}:")
-    print(f"Source: {source}")
-    print("Snippet:")
-    print(snippet)
-    print("-" * 50)
+# searcher = SemanticSearch() # Create an instance of the SemanticSearch class
+# results = searcher.search("What should I put in my technical diary?") # Perform a search with the query
+# for idx, (snippet, source) in enumerate(results, 1):
+#     print(f"\nResult {idx}:")
+#     print(f"Source: {source}")
+#     print("Snippet:")
+#     print(snippet)
+#     print("-" * 50)

@@ -16,3 +16,172 @@ Response: Source: https://wehi-researchcomputing.github.io/faq#what-do-i-need-to
 
 Results from keyword search: What do I need to do for my final presentation and summary report? The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. We create a single document for all summary reports to be filed together. You will be sent a link to this document when it is ready. The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes. For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. A good example of a set of slides is here. And here is another final student presentation example, although it is a little long. . The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more. Maximum time for the presentation is 15 to 20 minutes..
 --------------------------------
+Timestamp: 2025-05-18 13:32:29
+User Message: hello there
+Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
+--------------------------------
+Timestamp: 2025-05-18 13:41:42
+User Message: hello there
+Response: There was an error processing your request with semantic search
+--------------------------------
+Timestamp: 2025-05-18 13:41:48
+User Message: hello there
+Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
+--------------------------------
+Timestamp: 2025-05-18 13:42:09
+User Message: hello there
+Response: There was an error processing your request with semantic search
+--------------------------------
+Timestamp: 2025-05-18 13:44:41
+User Message: hi there
+Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
+--------------------------------
+Timestamp: 2025-05-18 13:44:50
+User Message: hi there
+Response: There was an error processing your request with semantic search: list index out of range
+--------------------------------
+Timestamp: 2025-05-18 13:47:50
+User Message: hi there
+Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
+--------------------------------
+Timestamp: 2025-05-18 13:47:59
+User Message: hi there
+Response: There was an error processing your request with semantic search: Traceback (most recent call last):
+  File "/app/server.py", line 74, in chat
+    results = searcher.search(user_message)[0]
+IndexError: list index out of range
+
+--------------------------------
+Timestamp: 2025-05-18 13:53:14
+User Message: hi there
+Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
+--------------------------------
+Timestamp: 2025-05-18 13:53:25
+User Message: hi there
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:52:06
+User Message: hi there
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:52:21
+User Message: technical diary
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:52:33
+User Message: what to put in technical diary
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:55:56
+User Message: what to put in technical diary
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:56:10
+User Message: What should I put in my technical diary?
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 14:57:59
+User Message: What should I put in my technical diary?
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 15:00:35
+User Message: What should I put in my technical diary?
+Response: There was an error processing your request with semantic search: Traceback (most recent call last):
+  File "/app/server.py", line 74, in chat
+    results = searcher.search(user_message)[0]
+IndexError: list index out of range
+
+--------------------------------
+Timestamp: 2025-05-18 15:06:46
+User Message: What should I put in my technical diary?
+Response: Source: Unknown
+
+Results from semantic search: No results found..
+--------------------------------
+Timestamp: 2025-05-18 15:09:10
+User Message: What should I put in my technical diary?
+Response: There was an error processing your request with semantic search: Traceback (most recent call last):
+  File "/app/server.py", line 74, in chat
+    results = searcher.search(user_message)[0]
+IndexError: list index out of range
+
+--------------------------------
+Timestamp: 2025-05-18 15:29:04
+User Message: What should I put in my technical diary?
+Response: No results found
+--------------------------------
+Timestamp: 2025-05-18 15:31:42
+User Message: What should I put in my technical diary?
+Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+--------------------------------
+Timestamp: 2025-05-18 15:33:01
+User Message: technical diary
+Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+--------------------------------
+Timestamp: 2025-05-18 15:33:35
+User Message: stage 1 of development
+Response: Source: Student Projects Outline - Summer 2425.pdf
+
+Results from semantic search: ent Projects Outline - Summer 24/25  
+ 
+Introduction  
+ 
+Please remember these are long -term goals and this internship is a best effort internship. This 
+means that I am not expecting any of these goals to be completed. I am simply expecting that 
+we're going to do the best that we can, collaboratively.  
+ 
+What I want from you is to be able to take these cryptic notes, watch the final presentations,  and 
+use them to  understand what you might want to do as part of this internship  (see below) . 
+ 
+ 
+ 
+Key Links  
+Please bookmark these key links:  
+• the Welcome Slides for more general information,  
+• FAQs to help you troubleshoot problems , 
+• the Student Internship Handbook , 
+• Student Projects Outline  to help explain high level context and tasks,  
+• the previous summary report from semester 2 2024 , 
+• the Sharepoint from previous intakes that is tied to WEHI -wide student intern group , 
+• you can connect to your team mates, sister projects and skills register.  
+ 
+ 
+High level context to help with Stage 1  
+ 
+To find out more about the projects please look at the information below:  
+ 
+1. Introduction to REDMANE (slides by Rowland)*  
+a. Create synthetic multi -omics data  to match synthetic clinical and other metadata  
+b. Extend functionality of the Data Registry application  in ReactJS and FASTAPI  
+c. Ingestion of data and metadata into the Data Registry using authentication  
+d. Setup authentication for multiple Data Portals  using OIDC, AAF, and KeyCloak  
+e. Setup cBioPortal as a Data Portal  on the Nectar Research Cloud  
+f. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research 
+Cloud  
+g. Setup Omero as a Data Portal on the Nectar Research Cloud  
+h. Setup Storage Calculator  as a Data Portal on the Nectar Research Cloud  
+i. Identify other Data Portals for key data types  
+2. Clinical Dashboards  
+a. Create synthetic multi -omics data  to match synthetic clinical and other metadata  
+b. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research 
+Cloud  
+3. S.
+--------------------------------
