@@ -185,3 +185,33 @@ b. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research
 Cloud  
 3. S.
 --------------------------------
+Timestamp: 2025-05-18 17:23:22
+User Message: technical diary
+Response: Answer:  In your technical diary within Sharepoint (e.g., WEHI-wide student intern group in Teams > Files), you should maintain a Technical notes folder for each intake period like "Semester 2 2023 Technical notes." This serves to help future students understand the processes and results achieved, including confidential details that shouldn't be public. Essential items to include are:
+
+- URLs of documents or videos with summaries
+
+- Commandline commands for software setup (e.g., `pip install pandas`)
+
+- Technical errors encountered and resolutions
+
+- General technical notes requiring significant time investment
+
+- Technical assistance received from peers, mentors, or supervisors
+
+Sources:
+https://wehi-researchcomputing.github.io/student-capacity-planning.html#introduction
+https://wehi-researchcomputing.github.io/project-wikis#other-documentation
+https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+https://wehi-researchcomputing.github.io/student-aive#further-reading
+--------------------------------
+Timestamp: 2025-05-18 17:24:52
+User Message: what is final presentation
+Response: Answer:  The final presentation for your internship involves delivering an early draft and late draft of your summary report during regular weekly project meetings, which are usually done at the same time as the presentations. These documents should be shared in Teams Files or SharePoint for supervisors to comment on directly. A one-page audience-focused summary is also required before the presentation or internship ends, and an acknowledgment slide must be included during your final presentation. The maximum duration of a whiteboard session discussion related to presentations should not exceed 15 minutes.
+
+Sources:
+https://wehi-researchcomputing.github.io/faq#how-can-i-find-out-more-about-the-whiteboard-presentation-in-week-4
+https://wehi-researchcomputing.github.io/faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report
+https://wehi-researchcomputing.github.io/student-clinical-dashboards#further-reading
+https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
+--------------------------------

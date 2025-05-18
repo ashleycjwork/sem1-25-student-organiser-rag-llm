@@ -17,10 +17,8 @@ interface ModelPickerProps {
 
 // Map for simplified model names
 const simplifiedNames: Record<string, string> = {
-  'meta-llama/llama-4-scout-17b-16e-instruct': 'Llama 4',
-  'llama-3.1-8b-instant': 'Llama 3.1',
-  'deepseek-r1-distill-llama-70b': 'DeepSeek',
-  'llama-3.3-70b-versatile': 'Llama 3.3',
+  'bling-phi-3-gguf': 'Bling Phi 3',
+  'tinyllama': 'TinyLlama',
 };
 
 export const ModelPicker = ({
