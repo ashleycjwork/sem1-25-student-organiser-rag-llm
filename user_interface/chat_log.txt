@@ -263,3 +263,227 @@ https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-
 https://wehi-researchcomputing.github.io/faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that
 https://wehi-researchcomputing.github.io/faq#how-do-i-know-if-i-am-eligible
 --------------------------------
+Timestamp: 2025-05-19 09:36:01
+User Message: What is Stage 1 of development?
+Response: No results foundTraceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/local/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/usr/local/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/app/server.py", line 77, in chat
+    response_text = searcher.search(user_message)
+  File "/app/llm_tinyllama.py", line 62, in search
+    response = self.qa_chain_with_sources.invoke(query)
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 2879, in invoke
+    input = context.run(step.invoke, input, config)
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3580, in invoke
+    output = {key: future.result() for key, future in zip(steps, futures)}
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3580, in <dictcomp>
+    output = {key: future.result() for key, future in zip(steps, futures)}
+  File "/usr/local/lib/python3.10/concurrent/futures/_base.py", line 458, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3564, in _invoke_step
+    return context.run(
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 2879, in invoke
+    input = context.run(step.invoke, input, config)
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 385, in invoke
+    self.generate_prompt(
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 750, in generate_prompt
+    return self.generate(prompt_strings, stop=stop, callbacks=callbacks, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 944, in generate
+    output = self._generate_helper(
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 787, in _generate_helper
+    raise e
+  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 774, in _generate_helper
+    self._generate(
+  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 304, in _generate
+    final_chunk = self._stream_with_aggregation(
+  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 272, in _stream_with_aggregation
+    for stream_resp in self._create_generate_stream(prompt, stop, **kwargs):
+  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 222, in _create_generate_stream
+    yield from self._client.generate(
+  File "/usr/local/lib/python3.10/site-packages/ollama/_client.py", line 163, in inner
+    with self._client.stream(*args, **kwargs) as r:
+  File "/usr/local/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 868, in stream
+    response = self.send(
+  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/local/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 101] Network is unreachable
+
+--------------------------------
+Timestamp: 2025-05-19 09:36:17
+User Message: What is Stage 1 of development?
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation, where basic functions are implemented and tested before moving onto more complex tasks or integrating with external systems. This stage typically involves defining the problem domain, designing the algorithm, and building the necessary hardware and software components.
+
+Top Sources:
+Student Projects Outline - Summer 2425.pdf
+https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+https://wehi-researchcomputing.github.io/project-wikis#other-documentation
+--------------------------------
+Timestamp: 2025-05-19 09:37:57
+User Message: What is Stage 1 of development?
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation, where basic functions and algorithms are implemented and tested. This stage can take several weeks or months depending on the complexity of the project and the available resources. During this phase, the AI assistant is designed to perform specific tasks based on predefined rules and algorithms, such as learning from data or solving complex problems.
+
+Top Sources:
+Student Projects Outline - Summer 2425.pdf
+https://wehi-researchcomputing.github.io/project-wikis#semester-1-2025-projects
+https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+
+📌 If the answer above is not clear or complete:
+Check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email our supervisor at [your.email@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:39:49
+User Message: What is Stage 1 of development?
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation. During this stage, the software is designed and programmed to perform specific tasks or functions based on predefined algorithms and rules. The goal of Stage 1 is to create a functional prototype that can be refined and improved upon through subsequent stages of development.
+
+Top Sources:
+Student Projects Outline - Summer 2425.pdf
+https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+📌 If the answer above is not clear or complete,
+check the potential sources listed above. if you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:41:41
+User Message: What is Stage 1 of development?
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation, which typically involve defining its goals and objectives, designing its architecture, selecting appropriate algorithms, and implementing necessary software components. During this stage, the AI assistant is still in its early stages of learning and adapting to new situations and environments.
+
+Top Sources:
+• Student Projects Outline - Summer 2425.pdf
+• https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+📌 If the answer above is not clear or complete,
+check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:42:43
+User Message: What is Stage 1 of development?
+
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation, where it is designed and programmed with basic functions and capabilities. During this stage, the AI assistant is still in its infancy and may not have fully developed abilities or features yet. However, it is still capable of performing basic tasks such as learning from data and making decisions based on predefined rules.
+
+Top Sources:
+
+• Student Projects Outline - Summer 2425.pdf
+
+• https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+
+• https://wehi-researchcomputing.github.io/project-wikis#other-documentation
+
+📌 If the answer above is not clear or complete,
+check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:47:52
+User Message: what to put in technical diary
+Response: Answer:
+ In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), include:
+
+1. Technical notes folder for intake with details of what you did in detail to get results and things that should not be made public.
+2. URLs of documents or videos read/watched, along with a quick summary.
+3. Commandline commands used to set up software (e.g., pip install pandas).
+4. Technical errors encountered and how they were fixed.
+5. General technical notes that took time to figure out for future students' benefit.
+6. Any technical help received from others, such as students, mentors, or supervisors.
+
+Top Sources:
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
+• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+
+📌 If the answer above is not clear or complete:
+Check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:48:32
+User Message: what to put in technical diary
+Response: Answer:
+ In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), include: URLs of documents or videos with summaries; commandline commands for software setup; technical errors and resolutions; general technical notes that took time to figure out; any technical help received from others, ensuring private information is not shared publicly without permission.
+
+Top Sources:
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+
+• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+📌 If the answer above is not clear or complete:
+Check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------
+Timestamp: 2025-05-19 09:50:57
+User Message: what to put in technical diary
+
+Response: Answer:
+ In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), you should include:
+
+1. Technical notes for intake projects with a focus on details and non-public data management.
+2. URLs of documents or videos read, along with summaries to aid future students' decision-making.
+3. Commandline commands used in setting up software systems (e.g., pip install pandas).
+4. Technical errors encountered and resolutions.
+5. General technical notes that took time to figure out for potential student assistance.
+6. Technical help received from others, such as students, mentors, or supervisors.
+
+Top Sources:
+
+• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+
+• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
+
+📌 If the answer above is not clear or complete:
+Check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+--------------------------------

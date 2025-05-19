@@ -46,8 +46,20 @@ class LLMBlingPhi3:
         response = self.qa_chain_with_sources.invoke(query)
         answer = response["answer"]
         unique_sources = list(set(response["sources"]))
-        # Print answers + sources
-        output = f"Answer: {answer}\n\nSources:\n" + "\n".join(unique_sources)
+        # Format sources as bullet points
+        if unique_sources:
+            sources_formatted = "\n\n".join(f"• {src}" for src in unique_sources)
+        else:
+            sources_formatted = "• (No sources found)"
+
+        # Build full output
+        output = (
+            f"Answer:\n{answer}\n\n"
+            f"Top Sources:\n\n{sources_formatted}\n\n"
+            "📌 If the answer above is not clear or complete:\n"
+            "Check the potential sources listed above. If you're still unsure,\n"
+            "please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au]."
+        )
         return output
 
 # # Example usage:

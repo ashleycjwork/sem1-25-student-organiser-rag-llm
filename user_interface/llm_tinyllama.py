@@ -63,12 +63,22 @@ class LLMTinyLlama:
         answer = response["answer"]
         sources = response["sources"]
 
-         # Output with sources if available
+        output = f"Answer:\n{answer}\n"
+
+        # Show top 3 sources if available
         if sources:
-            output = f"Answer:\n{answer}\n\nPotential Sources:\n" + "\n".join(sources)
+            output += "\nTop Sources:\n\n" + "\n\n".join(f"• {src}" for src in sources)
         else:
-            output = f"Answer:\n{answer}\n\n(No relevant sources)"
+            output += "\nTop Sources:\n\n• (No sources found)"
+
+        # Always append this message
+        output += (
+            "\n\n📌 If the answer above is not clear or complete,\n"
+            "check the potential sources listed above. If you're still unsure,\n"
+            "please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au]."
+        )
         return output
+
 
 # # Example usage:
 # llmrag = LLMTinyLlama()
