@@ -1,481 +1,67 @@
-Timestamp: 2025-05-07 01:06:10
-User Message: What should I put in my technical diary?
-Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
 
-Results from keyword search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
---------------------------------
-Timestamp: 2025-05-07 01:06:58
-User Message: what is a technical diary?
-Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 09:55:19
+👤 User Message:
+what to put in technical diary
 
-Results from keyword search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
---------------------------------
-Timestamp: 2025-05-07 01:09:02
-User Message: when is the final presentation?
-Response: Source: https://wehi-researchcomputing.github.io/faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report
-
-Results from keyword search: What do I need to do for my final presentation and summary report? The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. We create a single document for all summary reports to be filed together. You will be sent a link to this document when it is ready. The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes. For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. A good example of a set of slides is here. And here is another final student presentation example, although it is a little long. . The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more. Maximum time for the presentation is 15 to 20 minutes..
---------------------------------
-Timestamp: 2025-05-18 13:32:29
-User Message: hello there
-Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
---------------------------------
-Timestamp: 2025-05-18 13:41:42
-User Message: hello there
-Response: There was an error processing your request with semantic search
---------------------------------
-Timestamp: 2025-05-18 13:41:48
-User Message: hello there
-Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
---------------------------------
-Timestamp: 2025-05-18 13:42:09
-User Message: hello there
-Response: There was an error processing your request with semantic search
---------------------------------
-Timestamp: 2025-05-18 13:44:41
-User Message: hi there
-Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
---------------------------------
-Timestamp: 2025-05-18 13:44:50
-User Message: hi there
-Response: There was an error processing your request with semantic search: list index out of range
---------------------------------
-Timestamp: 2025-05-18 13:47:50
-User Message: hi there
-Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
---------------------------------
-Timestamp: 2025-05-18 13:47:59
-User Message: hi there
-Response: There was an error processing your request with semantic search: Traceback (most recent call last):
-  File "/app/server.py", line 74, in chat
-    results = searcher.search(user_message)[0]
-IndexError: list index out of range
-
---------------------------------
-Timestamp: 2025-05-18 13:53:14
-User Message: hi there
-Response: Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible.
---------------------------------
-Timestamp: 2025-05-18 13:53:25
-User Message: hi there
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:52:06
-User Message: hi there
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:52:21
-User Message: technical diary
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:52:33
-User Message: what to put in technical diary
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:55:56
-User Message: what to put in technical diary
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:56:10
-User Message: What should I put in my technical diary?
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 14:57:59
-User Message: What should I put in my technical diary?
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 15:00:35
-User Message: What should I put in my technical diary?
-Response: There was an error processing your request with semantic search: Traceback (most recent call last):
-  File "/app/server.py", line 74, in chat
-    results = searcher.search(user_message)[0]
-IndexError: list index out of range
-
---------------------------------
-Timestamp: 2025-05-18 15:06:46
-User Message: What should I put in my technical diary?
-Response: Source: Unknown
-
-Results from semantic search: No results found..
---------------------------------
-Timestamp: 2025-05-18 15:09:10
-User Message: What should I put in my technical diary?
-Response: There was an error processing your request with semantic search: Traceback (most recent call last):
-  File "/app/server.py", line 74, in chat
-    results = searcher.search(user_message)[0]
-IndexError: list index out of range
-
---------------------------------
-Timestamp: 2025-05-18 15:29:04
-User Message: What should I put in my technical diary?
-Response: No results found
---------------------------------
-Timestamp: 2025-05-18 15:31:42
-User Message: What should I put in my technical diary?
-Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-
-Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
---------------------------------
-Timestamp: 2025-05-18 15:33:01
-User Message: technical diary
-Response: Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-
-Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
---------------------------------
-Timestamp: 2025-05-18 15:33:35
-User Message: stage 1 of development
-Response: Source: Student Projects Outline - Summer 2425.pdf
-
-Results from semantic search: ent Projects Outline - Summer 24/25  
- 
-Introduction  
- 
-Please remember these are long -term goals and this internship is a best effort internship. This 
-means that I am not expecting any of these goals to be completed. I am simply expecting that 
-we're going to do the best that we can, collaboratively.  
- 
-What I want from you is to be able to take these cryptic notes, watch the final presentations,  and 
-use them to  understand what you might want to do as part of this internship  (see below) . 
- 
- 
- 
-Key Links  
-Please bookmark these key links:  
-• the Welcome Slides for more general information,  
-• FAQs to help you troubleshoot problems , 
-• the Student Internship Handbook , 
-• Student Projects Outline  to help explain high level context and tasks,  
-• the previous summary report from semester 2 2024 , 
-• the Sharepoint from previous intakes that is tied to WEHI -wide student intern group , 
-• you can connect to your team mates, sister projects and skills register.  
- 
- 
-High level context to help with Stage 1  
- 
-To find out more about the projects please look at the information below:  
- 
-1. Introduction to REDMANE (slides by Rowland)*  
-a. Create synthetic multi -omics data  to match synthetic clinical and other metadata  
-b. Extend functionality of the Data Registry application  in ReactJS and FASTAPI  
-c. Ingestion of data and metadata into the Data Registry using authentication  
-d. Setup authentication for multiple Data Portals  using OIDC, AAF, and KeyCloak  
-e. Setup cBioPortal as a Data Portal  on the Nectar Research Cloud  
-f. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research 
-Cloud  
-g. Setup Omero as a Data Portal on the Nectar Research Cloud  
-h. Setup Storage Calculator  as a Data Portal on the Nectar Research Cloud  
-i. Identify other Data Portals for key data types  
-2. Clinical Dashboards  
-a. Create synthetic multi -omics data  to match synthetic clinical and other metadata  
-b. Setup generic secure Shiny/R App  as a Data Portal on the Nectar Research 
-Cloud  
-3. S.
---------------------------------
-Timestamp: 2025-05-18 17:23:22
-User Message: technical diary
-Response: Answer:  In your technical diary within Sharepoint (e.g., WEHI-wide student intern group in Teams > Files), you should maintain a Technical notes folder for each intake period like "Semester 2 2023 Technical notes." This serves to help future students understand the processes and results achieved, including confidential details that shouldn't be public. Essential items to include are:
-
-- URLs of documents or videos with summaries
-
-- Commandline commands for software setup (e.g., `pip install pandas`)
-
-- Technical errors encountered and resolutions
-
-- General technical notes requiring significant time investment
-
-- Technical assistance received from peers, mentors, or supervisors
-
-Sources:
-https://wehi-researchcomputing.github.io/student-capacity-planning.html#introduction
-https://wehi-researchcomputing.github.io/project-wikis#other-documentation
-https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-https://wehi-researchcomputing.github.io/student-aive#further-reading
---------------------------------
-Timestamp: 2025-05-18 17:24:52
-User Message: what is final presentation
-Response: Answer:  The final presentation for your internship involves delivering an early draft and late draft of your summary report during regular weekly project meetings, which are usually done at the same time as the presentations. These documents should be shared in Teams Files or SharePoint for supervisors to comment on directly. A one-page audience-focused summary is also required before the presentation or internship ends, and an acknowledgment slide must be included during your final presentation. The maximum duration of a whiteboard session discussion related to presentations should not exceed 15 minutes.
-
-Sources:
-https://wehi-researchcomputing.github.io/faq#how-can-i-find-out-more-about-the-whiteboard-presentation-in-week-4
-https://wehi-researchcomputing.github.io/faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report
-https://wehi-researchcomputing.github.io/student-clinical-dashboards#further-reading
-https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
---------------------------------
-Timestamp: 2025-05-19 07:13:10
-User Message: what to put in my technical diary?
-Response: Answer:
-To add more technical notes to your Technical Notes folder in Sharepoint, you can include:
-
-1. URLs of any documents or videos that were read or watched during the intake period and provide a quick summary of their contents.
-2. Commandline commands used to set up your software system, along with their execution steps.
-3. General technical notes that took some time to figure out but helped you in the future.
-4. Any technical help received from other students or mentors during the intake period.
-5. Specific details about any technical errors you encountered and how you resolved them.
-6. Any general technical help you received from supervisors or mentors, such as advice on troubleshooting common issues.
-7. Any specific software tools or libraries that were used to complete your project.
-8. Any additional resources or references that were helpful in completing the project.
-9. Any additional information that could be useful for future students who may encounter similar challenges during their own projects.
-
-Potential Sources:
-https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
-https://wehi-researchcomputing.github.io/student-aive#further-reading
---------------------------------
-Timestamp: 2025-05-19 07:13:34
-User Message: What is Stage 1 of development
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation, where the basic algorithms and functions are set up and tested. This stage is crucial for ensuring that the AI can function correctly and efficiently in its intended purpose. During this phase, the AI undergoes a series of tests and evaluations to determine its capabilities and limitations. The goal of this initial development stage is to create an AI that is capable of performing complex tasks and solving problems in a timely and effective manner.
-
-Potential Sources:
-Student Projects Outline - Summer 2425.pdf
-https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
---------------------------------
-Timestamp: 2025-05-19 07:14:06
-User Message:  I’m so confused, how do I ask for help?
-Response: Answer:
-Certainly! Here's an example answer:
-
-Question: "I'm having trouble understanding this instruction."
-
-Answer: If the given information doesn't provide a clear and concise answer, it may be because there are missing details or because the instructions are unclear. In that case, please provide more information or clarify the instructions to help the assistant better understand your request. For example:
-
-- "Can you please explain how to use this product?"
-- "Could you please provide me with step-by-step instructions on how to use this machine?"
-- "Please tell me exactly what I need to do to complete this task."
-
-Potential Sources:
-https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem
-https://wehi-researchcomputing.github.io/faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that
-https://wehi-researchcomputing.github.io/faq#how-do-i-know-if-i-am-eligible
---------------------------------
-Timestamp: 2025-05-19 09:36:01
-User Message: What is Stage 1 of development?
-Response: No results foundTraceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
-    yield
-  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 250, in handle_request
-    resp = self._pool.handle_request(req)
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
-    raise exc from None
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
-    response = connection.handle_request(
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
-    raise exc
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
-    stream = self._connect(request)
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 124, in _connect
-    stream = self._network_backend.connect_tcp(**kwargs)
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
-    with map_exceptions(exc_map):
-  File "/usr/local/lib/python3.10/contextlib.py", line 153, in __exit__
-    self.gen.throw(typ, value, traceback)
-  File "/usr/local/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
-    raise to_exc(exc) from exc
-httpcore.ConnectError: [Errno 101] Network is unreachable
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/app/server.py", line 77, in chat
-    response_text = searcher.search(user_message)
-  File "/app/llm_tinyllama.py", line 62, in search
-    response = self.qa_chain_with_sources.invoke(query)
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 2879, in invoke
-    input = context.run(step.invoke, input, config)
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3580, in invoke
-    output = {key: future.result() for key, future in zip(steps, futures)}
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3580, in <dictcomp>
-    output = {key: future.result() for key, future in zip(steps, futures)}
-  File "/usr/local/lib/python3.10/concurrent/futures/_base.py", line 458, in result
-    return self.__get_result()
-  File "/usr/local/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
-    raise self._exception
-  File "/usr/local/lib/python3.10/concurrent/futures/thread.py", line 58, in run
-    result = self.fn(*self.args, **self.kwargs)
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 3564, in _invoke_step
-    return context.run(
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/runnables/base.py", line 2879, in invoke
-    input = context.run(step.invoke, input, config)
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 385, in invoke
-    self.generate_prompt(
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 750, in generate_prompt
-    return self.generate(prompt_strings, stop=stop, callbacks=callbacks, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 944, in generate
-    output = self._generate_helper(
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 787, in _generate_helper
-    raise e
-  File "/usr/local/lib/python3.10/site-packages/langchain_core/language_models/llms.py", line 774, in _generate_helper
-    self._generate(
-  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 304, in _generate
-    final_chunk = self._stream_with_aggregation(
-  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 272, in _stream_with_aggregation
-    for stream_resp in self._create_generate_stream(prompt, stop, **kwargs):
-  File "/usr/local/lib/python3.10/site-packages/langchain_ollama/llms.py", line 222, in _create_generate_stream
-    yield from self._client.generate(
-  File "/usr/local/lib/python3.10/site-packages/ollama/_client.py", line 163, in inner
-    with self._client.stream(*args, **kwargs) as r:
-  File "/usr/local/lib/python3.10/contextlib.py", line 135, in __enter__
-    return next(self.gen)
-  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 868, in stream
-    response = self.send(
-  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 914, in send
-    response = self._send_handling_auth(
-  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 942, in _send_handling_auth
-    response = self._send_handling_redirects(
-  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
-    response = self._send_single_request(request)
-  File "/usr/local/lib/python3.10/site-packages/httpx/_client.py", line 1014, in _send_single_request
-    response = transport.handle_request(request)
-  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 249, in handle_request
-    with map_httpcore_exceptions():
-  File "/usr/local/lib/python3.10/contextlib.py", line 153, in __exit__
-    self.gen.throw(typ, value, traceback)
-  File "/usr/local/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
-    raise mapped_exc(message) from exc
-httpx.ConnectError: [Errno 101] Network is unreachable
-
---------------------------------
-Timestamp: 2025-05-19 09:36:17
-User Message: What is Stage 1 of development?
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation, where basic functions are implemented and tested before moving onto more complex tasks or integrating with external systems. This stage typically involves defining the problem domain, designing the algorithm, and building the necessary hardware and software components.
-
-Top Sources:
-Student Projects Outline - Summer 2425.pdf
-https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-https://wehi-researchcomputing.github.io/project-wikis#other-documentation
---------------------------------
-Timestamp: 2025-05-19 09:37:57
-User Message: What is Stage 1 of development?
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation, where basic functions and algorithms are implemented and tested. This stage can take several weeks or months depending on the complexity of the project and the available resources. During this phase, the AI assistant is designed to perform specific tasks based on predefined rules and algorithms, such as learning from data or solving complex problems.
-
-Top Sources:
-Student Projects Outline - Summer 2425.pdf
-https://wehi-researchcomputing.github.io/project-wikis#semester-1-2025-projects
-https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-
-📌 If the answer above is not clear or complete:
-Check the potential sources listed above. If you're still unsure,
-please attend the daily standup or email our supervisor at [your.email@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:39:49
-User Message: What is Stage 1 of development?
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation. During this stage, the software is designed and programmed to perform specific tasks or functions based on predefined algorithms and rules. The goal of Stage 1 is to create a functional prototype that can be refined and improved upon through subsequent stages of development.
-
-Top Sources:
-Student Projects Outline - Summer 2425.pdf
-https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
-
-📌 If the answer above is not clear or complete,
-check the potential sources listed above. if you're still unsure,
-please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:41:41
-User Message: What is Stage 1 of development?
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation, which typically involve defining its goals and objectives, designing its architecture, selecting appropriate algorithms, and implementing necessary software components. During this stage, the AI assistant is still in its early stages of learning and adapting to new situations and environments.
-
-Top Sources:
-• Student Projects Outline - Summer 2425.pdf
-• https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
-
-📌 If the answer above is not clear or complete,
-check the potential sources listed above. If you're still unsure,
-please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:42:43
-User Message: What is Stage 1 of development?
-
-Response: Answer:
-Stage 1 of development refers to the initial stages of an AI system's creation, where it is designed and programmed with basic functions and capabilities. During this stage, the AI assistant is still in its infancy and may not have fully developed abilities or features yet. However, it is still capable of performing basic tasks such as learning from data and making decisions based on predefined rules.
-
-Top Sources:
-
-• Student Projects Outline - Summer 2425.pdf
-
-• https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
-
-• https://wehi-researchcomputing.github.io/project-wikis#other-documentation
-
-📌 If the answer above is not clear or complete,
-check the potential sources listed above. If you're still unsure,
-please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:47:52
-User Message: what to put in technical diary
-Response: Answer:
+🤖 Response:
+Answer:
  In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), include:
 
-1. Technical notes folder for intake with details of what you did in detail to get results and things that should not be made public.
-2. URLs of documents or videos read/watched, along with a quick summary.
-3. Commandline commands used to set up software (e.g., pip install pandas).
-4. Technical errors encountered and how they were fixed.
-5. General technical notes that took time to figure out for future students' benefit.
-6. Any technical help received from others, such as students, mentors, or supervisors.
-
-Top Sources:
-• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
-• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
-• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
-
-📌 If the answer above is not clear or complete:
-Check the potential sources listed above. If you're still unsure,
-please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:48:32
-User Message: what to put in technical diary
-Response: Answer:
- In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), include: URLs of documents or videos with summaries; commandline commands for software setup; technical errors and resolutions; general technical notes that took time to figure out; any technical help received from others, ensuring private information is not shared publicly without permission.
-
-Top Sources:
-• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
-
-• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
-
-• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
-
-• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
-
-📌 If the answer above is not clear or complete:
-Check the potential sources listed above. If you're still unsure,
-please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
-Timestamp: 2025-05-19 09:50:57
-User Message: what to put in technical diary
-
-Response: Answer:
- In your technical diary within Sharepoint (e.g., WEHI-wide student intern group), you should include:
-
-1. Technical notes for intake projects with a focus on details and non-public data management.
-2. URLs of documents or videos read, along with summaries to aid future students' decision-making.
-3. Commandline commands used in setting up software systems (e.g., pip install pandas).
+1. Technical notes folder for project intake with details of what you did to get results and sensitive data placement information.
+2. URLs of documents, videos, or resources read/watched along with summaries.
+3. Commandline commands used in setting up software (e.g., pip install pandas).
 4. Technical errors encountered and resolutions.
-5. General technical notes that took time to figure out for potential student assistance.
-6. Technical help received from others, such as students, mentors, or supervisors.
+5. General technical notes that took time to figure out for future students' benefit.
+6. Technical help received from others, ensuring private information is not shared publicly without proper authorization.
 
 Top Sources:
 
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
 • https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+• https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
+
+📌 If the answer above is not clear or complete:
+Check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 09:55:49
+👤 User Message:
+what to put in technical diary
+
+🤖 Response:
+Answer:
+Sure! Here's an updated version of your Technical notes folder with more detailed technical knowledge and helpful tips:
+
+1. URLs of any documents you read or videos you watched, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching.
+
+2. Commandline commands you used to setup your software system (e.g., pip install pandas) and how you fixed them.
+
+3. General technical notes that took you some time to figure out that might help a future student, such as troubleshooting common issues or explaining the process of fixing them.
+
+4. Specific technical help you received from other students, mentors, or supervisors (e.g., how they helped you with a project or provided guidance during a lab session).
+
+5. Any helpful tips or tricks you learned along the way that might be useful for future students.
+
+6. Technical knowledge to put into your technical diairy in Sharepoint (among others) that includes: URLs of any documents you read or videos you watched, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching.
+
+7. Commandline commands you used to setup your software system (e.g., pip install pandas) and how you fixed them.
+
+8. General technical notes that took you some time to figure out that might help a future student, such as troubleshooting common issues or explaining the process of fixing them.
+
+9. Specific technical help you received from other students, mentors, or supervisors (e.g., how they helped you with a project or provided guidance during a lab session).
+
+10. Any helpful tips or tricks you learned along the way that might be useful for future students.
+
+I hope this helps! Let me know if you have any other questions.
+
+Top Sources:
 
 • https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
 
@@ -483,7 +69,90 @@ Top Sources:
 
 • https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
 
-📌 If the answer above is not clear or complete:
-Check the potential sources listed above. If you're still unsure,
+📌 If the answer above is not clear or complete,
+check the potential sources listed above. If you're still unsure,
 please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
---------------------------------
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 09:56:34
+👤 User Message:
+technical diary includes?
+
+🤖 Response:
+Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 09:57:05
+👤 User Message:
+technical diary
+
+🤖 Response:
+Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from keyword search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 09:59:52
+💬 Query Type: keyword. Model: (N/A)
+👤 User Message:
+technical diary
+
+🤖 Response:
+Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from keyword search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 10:00:05
+💬 Query Type: semantic. Model: (N/A)
+👤 User Message:
+what to put in tech diary
+
+🤖 Response:
+Source: https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+Results from semantic search: What should I put in my technical diary? Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint. Technical knowledge to put into your technical diary in Sharepoint (among others) would include: URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. commandline commands you used to setup your sofwtware system eg. pip install pandas technical errors you encountered and how you fixed them, or what was the process you found to fix them general technical notes that took you some time to figure out that might help a future student any technical help you received from other students, mentors, or supervisors.
+===========================
+
+===== New Interaction =====
+🕒 Timestamp: 2025-05-19 10:00:36
+💬 Query Type: rag. Model: tinyllama
+👤 User Message:
+what to put in tech diary
+
+🤖 Response:
+Answer:
+To add tech diairy to your daily routine, you can try incorporating these tips:
+
+1. Start with a small amount: If you're new to taking supplements or using tech diairy, start with a small amount and gradually increase as you become more comfortable.
+
+2. Choose the right product: Look for a tech diairy that is formulated specifically for menopause or other hormonal changes. Some brands offer options for different stages of life, such as "premenopause" or "perimenopause."
+
+3. Consistency is key: Make sure to take your tech diairy at the same time each day, even if you're not feeling particularly hungry. This will help ensure that your body gets the necessary nutrients and support it needs during this important time in your life.
+
+4. Don't forget about hydration: Drinking plenty of water is crucial for maintaining healthy hormones and supporting overall wellness. Make sure to drink at least 8-10 cups of water each day, even if you're not feeling thirsty.
+
+5. Be patient with yourself: Remember that taking tech diairy is a journey, and it may take some time for your body to adjust to these new habits. Be kind to yourself and don't worry too much about what others are doing or saying.
+
+6. Don't forget the benefits of hormonal balance: While taking tech diairy can help support hormonal balance, it's also important to focus on other aspects of your health and wellness, such as eating a balanced diet, getting enough sleep, and engaging in regular exercise.
+
+Remember, taking tech diairy is just one part of a larger picture of overall health and wellness. By incorporating these tips into your daily routine, you can help support your body's natural hormonal changes and maintain optimal health during this important time in your life.
+
+Top Sources:
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+
+• https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+
+• https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+
+📌 If the answer above is not clear or complete,
+check the potential sources listed above. If you're still unsure,
+please attend the daily standup or email Rowland at [mosbergen.r@wehi.edu.au].
+===========================

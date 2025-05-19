@@ -24,11 +24,22 @@ CORS(app)
 conversation_store: Dict[str, List[Dict[str, Any]]] = {}
 
 # Function to log messages to a text file
-def log_message(user_message: str, response_text: str):
+def log_message(user_message: str, response_text: str, model: str, query_type: str):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    log_entry = f"Timestamp: {timestamp}\nUser Message: {user_message}\nResponse: {response_text}\n--------------------------------\n"
+     # Set model info based on query type
+    if query_type.lower() in ["keyword", "semantic"]:
+        model_info = "Model: (N/A)"
+    else:
+        model_info = f"Model: {model}"
 
-
+    log_entry = (
+        f"\n===== New Interaction =====\n"
+        f"🕒 Timestamp: {timestamp}\n"
+        f"💬 Query Type: {query_type}. {model_info}\n"
+        f"👤 User Message:\n{user_message}\n\n"
+        f"🤖 Response:\n{response_text}\n"
+        f"===========================\n"
+    )
     with open("chat_log.txt", "a") as log_file:
         log_file.write(log_entry)
 
@@ -99,7 +110,7 @@ def chat():
             response_text = f"Source: {results[1]}\n\nResults from keyword search: {results[0]}."
 
         #log the interaction to a file 
-        log_message(user_message, response_text)
+        log_message(user_message, response_text,model, query_type)
 
         # Add artificial delay to simulate processing time (optional)
         time.sleep(0.5)
