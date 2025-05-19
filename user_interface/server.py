@@ -13,6 +13,8 @@ from keyword_search import KeywordSearch
 from semantic_search import SemanticSearch
 #import the llm bling phi 3 class
 from llm_bling_phi_3 import LLMBlingPhi3
+#import the llm tinyllama class
+from llm_tinyllama import LLMTinyLlama
 
 app = Flask(__name__)
 # Enable CORS for your Next.js application
@@ -70,7 +72,13 @@ def chat():
                 # response_text =  "Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible."
             else:
                 #todo: add other model logic here
-                response_text =  "Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible."
+                try: 
+                    searcher = LLMTinyLlama()
+                    response_text = searcher.search(user_message)
+                except Exception as e:
+                    print("Error in tinyllama search:", traceback.format_exc())
+                    response_text = "No results found" + traceback.format_exc()
+                # response_text =  "Here's some information I found in our knowledge base: The RAG (Retrieval Augmented Generation) approach combines the power of large language models with external knowledge retrieval. This allows for more accurate, up-to-date, and verifiable responses. Your question has been processed using this approach to give you the most relevant information possible."
         elif query_type == 'semantic':
             try:
                 intro = f"Using Semantic Search to find: '{user_message}'\n\n"

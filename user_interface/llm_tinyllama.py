@@ -18,7 +18,7 @@ class LLMTinyLlama:
         )
 
         # LLM Model
-        self.llm = OllamaLLM(model="tinyllama", temperature=0.2)
+        self.llm = OllamaLLM(model="tinyllama", temperature=0.2, base_url="http://host.docker.internal:11434")
 
         # Template for LLM
         template = """{context}\n\nQuestion: {question}\n\nPlease provide a clear and concise answer based only on the information provided above. \n        If the information is not sufficient to answer the question, please say so."""
@@ -70,6 +70,6 @@ class LLMTinyLlama:
             output = f"Answer:\n{answer}\n\n(No relevant sources)"
         return output
 
-# Example usage:
-llmrag = LLMTinyLlama()
-print(llmrag.search("What is Stage 1 of development"))
+# # Example usage:
+# llmrag = LLMTinyLlama()
+# print(llmrag.search("What is Stage 1 of development"))

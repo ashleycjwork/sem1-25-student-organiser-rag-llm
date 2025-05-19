@@ -215,3 +215,51 @@ https://wehi-researchcomputing.github.io/faq#what-do-i-need-to-do-for-my-final-p
 https://wehi-researchcomputing.github.io/student-clinical-dashboards#further-reading
 https://wehi-researchcomputing.github.io/faq#what-are-the-key-things-to-do-before-the-weekly-meetings
 --------------------------------
+Timestamp: 2025-05-19 07:13:10
+User Message: what to put in my technical diary?
+Response: Answer:
+To add more technical notes to your Technical Notes folder in Sharepoint, you can include:
+
+1. URLs of any documents or videos that were read or watched during the intake period and provide a quick summary of their contents.
+2. Commandline commands used to set up your software system, along with their execution steps.
+3. General technical notes that took some time to figure out but helped you in the future.
+4. Any technical help received from other students or mentors during the intake period.
+5. Specific details about any technical errors you encountered and how you resolved them.
+6. Any general technical help you received from supervisors or mentors, such as advice on troubleshooting common issues.
+7. Any specific software tools or libraries that were used to complete your project.
+8. Any additional resources or references that were helpful in completing the project.
+9. Any additional information that could be useful for future students who may encounter similar challenges during their own projects.
+
+Potential Sources:
+https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-my-technical-diary
+https://wehi-researchcomputing.github.io/faq#what-should-i-put-in-the-public-wiki
+https://wehi-researchcomputing.github.io/student-aive#further-reading
+--------------------------------
+Timestamp: 2025-05-19 07:13:34
+User Message: What is Stage 1 of development
+Response: Answer:
+Stage 1 of development refers to the initial stages of an AI system's creation, where the basic algorithms and functions are set up and tested. This stage is crucial for ensuring that the AI can function correctly and efficiently in its intended purpose. During this phase, the AI undergoes a series of tests and evaluations to determine its capabilities and limitations. The goal of this initial development stage is to create an AI that is capable of performing complex tasks and solving problems in a timely and effective manner.
+
+Potential Sources:
+Student Projects Outline - Summer 2425.pdf
+https://wehi-researchcomputing.github.io/faq#what-is-the-overall-structure-of-the-internship-going-to-look-like
+https://wehi-researchcomputing.github.io/student-aive#duties-while-on-placement
+--------------------------------
+Timestamp: 2025-05-19 07:14:06
+User Message:  I’m so confused, how do I ask for help?
+Response: Answer:
+Certainly! Here's an example answer:
+
+Question: "I'm having trouble understanding this instruction."
+
+Answer: If the given information doesn't provide a clear and concise answer, it may be because there are missing details or because the instructions are unclear. In that case, please provide more information or clarify the instructions to help the assistant better understand your request. For example:
+
+- "Can you please explain how to use this product?"
+- "Could you please provide me with step-by-step instructions on how to use this machine?"
+- "Please tell me exactly what I need to do to complete this task."
+
+Potential Sources:
+https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem
+https://wehi-researchcomputing.github.io/faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that
+https://wehi-researchcomputing.github.io/faq#how-do-i-know-if-i-am-eligible
+--------------------------------
